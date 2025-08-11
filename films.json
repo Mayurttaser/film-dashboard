@@ -1,0 +1,6002 @@
+[
+  {
+    "title":"Stiff Upper Lips",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":10.0
+  },
+  {
+    "title":"Me You and Five Bucks",
+    "genre":"Romance",
+    "year":2015.0,
+    "rating":10.0
+  },
+  {
+    "title":"Dancer, Texas Pop. 81",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":10.0
+  },
+  {
+    "title":"Little Big Top",
+    "genre":"Comedy",
+    "year":2006.0,
+    "rating":10.0
+  },
+  {
+    "title":"Sardaarji",
+    "genre":"",
+    "year":2015.0,
+    "rating":9.5
+  },
+  {
+    "title":"One Man's Hero",
+    "genre":"Western",
+    "year":1999.0,
+    "rating":9.3
+  },
+  {
+    "title":"There Goes My Baby",
+    "genre":"Drama",
+    "year":1994.0,
+    "rating":8.5
+  },
+  {
+    "title":"The Shawshank Redemption",
+    "genre":"Drama",
+    "year":1994.0,
+    "rating":8.5
+  },
+  {
+    "title":"The Prisoner of Zenda",
+    "genre":"Adventure",
+    "year":1937.0,
+    "rating":8.4
+  },
+  {
+    "title":"The Godfather",
+    "genre":"Drama",
+    "year":1972.0,
+    "rating":8.4
+  },
+  {
+    "title":"Spirited Away",
+    "genre":"Fantasy",
+    "year":2001.0,
+    "rating":8.3
+  },
+  {
+    "title":"Whiplash",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":8.3
+  },
+  {
+    "title":"The Godfather: Part II",
+    "genre":"Drama",
+    "year":1974.0,
+    "rating":8.3
+  },
+  {
+    "title":"Pulp Fiction",
+    "genre":"Thriller",
+    "year":1994.0,
+    "rating":8.3
+  },
+  {
+    "title":"Fight Club",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":8.3
+  },
+  {
+    "title":"Counting",
+    "genre":"Documentary",
+    "year":2015.0,
+    "rating":8.3
+  },
+  {
+    "title":"Schindler's List",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":8.3
+  },
+  {
+    "title":"The Empire Strikes Back",
+    "genre":"Adventure",
+    "year":1980.0,
+    "rating":8.2
+  },
+  {
+    "title":"The Dark Knight",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":8.2
+  },
+  {
+    "title":"One Flew Over the Cuckoo's Nest",
+    "genre":"Drama",
+    "year":1975.0,
+    "rating":8.2
+  },
+  {
+    "title":"The Visual Bible: The Gospel of John",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":8.2
+  },
+  {
+    "title":"Howl's Moving Castle",
+    "genre":"Fantasy",
+    "year":2004.0,
+    "rating":8.2
+  },
+  {
+    "title":"Once Upon a Time in America",
+    "genre":"Drama",
+    "year":1984.0,
+    "rating":8.2
+  },
+  {
+    "title":"Anne of Green Gables",
+    "genre":"Drama",
+    "year":1985.0,
+    "rating":8.2
+  },
+  {
+    "title":"GoodFellas",
+    "genre":"Drama",
+    "year":1990.0,
+    "rating":8.2
+  },
+  {
+    "title":"Psycho",
+    "genre":"Drama",
+    "year":1960.0,
+    "rating":8.2
+  },
+  {
+    "title":"Forrest Gump",
+    "genre":"Comedy",
+    "year":1994.0,
+    "rating":8.2
+  },
+  {
+    "title":"Seven Samurai",
+    "genre":"Action",
+    "year":1954.0,
+    "rating":8.2
+  },
+  {
+    "title":"The Green Mile",
+    "genre":"Fantasy",
+    "year":1999.0,
+    "rating":8.2
+  },
+  {
+    "title":"American History X",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":8.2
+  },
+  {
+    "title":"12 Angry Men",
+    "genre":"Drama",
+    "year":1957.0,
+    "rating":8.2
+  },
+  {
+    "title":"Princess Mononoke",
+    "genre":"Adventure",
+    "year":1997.0,
+    "rating":8.2
+  },
+  {
+    "title":"Once Upon a Time in the West",
+    "genre":"Western",
+    "year":1968.0,
+    "rating":8.1
+  },
+  {
+    "title":"Dead Poets Society",
+    "genre":"Drama",
+    "year":1989.0,
+    "rating":8.1
+  },
+  {
+    "title":"Inception",
+    "genre":"Action",
+    "year":2010.0,
+    "rating":8.1
+  },
+  {
+    "title":"The Lord of the Rings: The Return of the King",
+    "genre":"Adventure",
+    "year":2003.0,
+    "rating":8.1
+  },
+  {
+    "title":"Interstellar",
+    "genre":"Adventure",
+    "year":2014.0,
+    "rating":8.1
+  },
+  {
+    "title":"Love Jones",
+    "genre":"Comedy",
+    "year":1997.0,
+    "rating":8.1
+  },
+  {
+    "title":"Modern Times",
+    "genre":"Drama",
+    "year":1936.0,
+    "rating":8.1
+  },
+  {
+    "title":"City of God",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":8.1
+  },
+  {
+    "title":"Memento",
+    "genre":"Mystery",
+    "year":2000.0,
+    "rating":8.1
+  },
+  {
+    "title":"The Shining",
+    "genre":"Horror",
+    "year":1980.0,
+    "rating":8.1
+  },
+  {
+    "title":"The Apartment",
+    "genre":"Comedy",
+    "year":1960.0,
+    "rating":8.1
+  },
+  {
+    "title":"The Good, the Bad and the Ugly",
+    "genre":"Western",
+    "year":1966.0,
+    "rating":8.1
+  },
+  {
+    "title":"The Usual Suspects",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":8.1
+  },
+  {
+    "title":"The Silence of the Lambs",
+    "genre":"Crime",
+    "year":1991.0,
+    "rating":8.1
+  },
+  {
+    "title":"Se7en",
+    "genre":"Crime",
+    "year":1995.0,
+    "rating":8.1
+  },
+  {
+    "title":"Room",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":8.1
+  },
+  {
+    "title":"Star Wars",
+    "genre":"Adventure",
+    "year":1977.0,
+    "rating":8.1
+  },
+  {
+    "title":"Guten Tag, Ramón",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":8.1
+  },
+  {
+    "title":"Lake of Fire",
+    "genre":"Documentary",
+    "year":2006.0,
+    "rating":8.0
+  },
+  {
+    "title":"Tupac: Resurrection",
+    "genre":"Music",
+    "year":2003.0,
+    "rating":8.0
+  },
+  {
+    "title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "genre":"Drama",
+    "year":1964.0,
+    "rating":8.0
+  },
+  {
+    "title":"Reservoir Dogs",
+    "genre":"Crime",
+    "year":1992.0,
+    "rating":8.0
+  },
+  {
+    "title":"Taxi Driver",
+    "genre":"Crime",
+    "year":1976.0,
+    "rating":8.0
+  },
+  {
+    "title":"Apocalypse Now",
+    "genre":"Drama",
+    "year":1979.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Imitation Game",
+    "genre":"History",
+    "year":2014.0,
+    "rating":8.0
+  },
+  {
+    "title":"Metropolis",
+    "genre":"Drama",
+    "year":1927.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Lion King",
+    "genre":"Family",
+    "year":1994.0,
+    "rating":8.0
+  },
+  {
+    "title":"Some Like It Hot",
+    "genre":"Comedy",
+    "year":1959.0,
+    "rating":8.0
+  },
+  {
+    "title":"Scarface",
+    "genre":"Action",
+    "year":1983.0,
+    "rating":8.0
+  },
+  {
+    "title":"Iraq for Sale: The War Profiteers",
+    "genre":"Documentary",
+    "year":2006.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Lord of the Rings: The Fellowship of the Ring",
+    "genre":"Adventure",
+    "year":2001.0,
+    "rating":8.0
+  },
+  {
+    "title":"Call + Response",
+    "genre":"Documentary",
+    "year":2008.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Grand Budapest Hotel",
+    "genre":"Comedy",
+    "year":2014.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Pianist",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Business of Fancydancing",
+    "genre":"Music",
+    "year":2002.0,
+    "rating":8.0
+  },
+  {
+    "title":"It's a Wonderful Life",
+    "genre":"Drama",
+    "year":1946.0,
+    "rating":8.0
+  },
+  {
+    "title":"Inside Out",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":8.0
+  },
+  {
+    "title":"Samsara",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":8.0
+  },
+  {
+    "title":"To Kill a Mockingbird",
+    "genre":"Crime",
+    "year":1962.0,
+    "rating":8.0
+  },
+  {
+    "title":"Dreaming of Joseph Lees",
+    "genre":"Romance",
+    "year":1999.0,
+    "rating":8.0
+  },
+  {
+    "title":"Déjà Vu",
+    "genre":"Romance",
+    "year":1998.0,
+    "rating":8.0
+  },
+  {
+    "title":"One Direction: This Is Us",
+    "genre":"Documentary",
+    "year":2013.0,
+    "rating":8.0
+  },
+  {
+    "title":"Rise of the Entrepreneur: The Search for a Better Way",
+    "genre":"",
+    "year":2014.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Lord of the Rings: The Two Towers",
+    "genre":"Adventure",
+    "year":2002.0,
+    "rating":8.0
+  },
+  {
+    "title":"Star Wars: Clone Wars: Volume 1",
+    "genre":"Action",
+    "year":2005.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Prestige",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":8.0
+  },
+  {
+    "title":"Dolphins and Whales: Tribes of the Ocean",
+    "genre":"Documentary",
+    "year":2008.0,
+    "rating":8.0
+  },
+  {
+    "title":"On the Waterfront",
+    "genre":"Crime",
+    "year":1954.0,
+    "rating":8.0
+  },
+  {
+    "title":"Oldboy",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Work and the Glory II: American Zion",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":8.0
+  },
+  {
+    "title":"The Jimmy Show",
+    "genre":"Comedy",
+    "year":2002.0,
+    "rating":8.0
+  },
+  {
+    "title":"Back to the Future",
+    "genre":"Adventure",
+    "year":1985.0,
+    "rating":8.0
+  },
+  {
+    "title":"Karachi se Lahore",
+    "genre":"Family",
+    "year":2015.0,
+    "rating":8.0
+  },
+  {
+    "title":"2001: A Space Odyssey",
+    "genre":"Science Fiction",
+    "year":1968.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Elephant Man",
+    "genre":"Drama",
+    "year":1980.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Wolf of Wall Street",
+    "genre":"Crime",
+    "year":2013.0,
+    "rating":7.9
+  },
+  {
+    "title":"Inglourious Basterds",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.9
+  },
+  {
+    "title":"Prisoners",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.9
+  },
+  {
+    "title":"Requiem for a Dream",
+    "genre":"Crime",
+    "year":2000.0,
+    "rating":7.9
+  },
+  {
+    "title":"Gladiator",
+    "genre":"Action",
+    "year":2000.0,
+    "rating":7.9
+  },
+  {
+    "title":"Her",
+    "genre":"Romance",
+    "year":2013.0,
+    "rating":7.9
+  },
+  {
+    "title":"Blade Runner",
+    "genre":"Science Fiction",
+    "year":1982.0,
+    "rating":7.9
+  },
+  {
+    "title":"Casablanca",
+    "genre":"Drama",
+    "year":1942.0,
+    "rating":7.9
+  },
+  {
+    "title":"Return of the Jedi",
+    "genre":"Adventure",
+    "year":1983.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Last Waltz",
+    "genre":"Documentary",
+    "year":1978.0,
+    "rating":7.9
+  },
+  {
+    "title":"Incendies",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.9
+  },
+  {
+    "title":"Batman: The Dark Knight Returns, Part 2",
+    "genre":"Action",
+    "year":2013.0,
+    "rating":7.9
+  },
+  {
+    "title":"Dallas Buyers Club",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.9
+  },
+  {
+    "title":"Polisse",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.9
+  },
+  {
+    "title":"Gone Girl",
+    "genre":"Mystery",
+    "year":2014.0,
+    "rating":7.9
+  },
+  {
+    "title":"Das Boot",
+    "genre":"Action",
+    "year":1981.0,
+    "rating":7.9
+  },
+  {
+    "title":"Alien",
+    "genre":"Horror",
+    "year":1979.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Hunt",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Sting",
+    "genre":"Comedy",
+    "year":1973.0,
+    "rating":7.9
+  },
+  {
+    "title":"Eternal Sunshine of the Spotless Mind",
+    "genre":"Science Fiction",
+    "year":2004.0,
+    "rating":7.9
+  },
+  {
+    "title":"Good Will Hunting",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.9
+  },
+  {
+    "title":"There Will Be Blood",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Lives of Others",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.9
+  },
+  {
+    "title":"Saving Private Ryan",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.9
+  },
+  {
+    "title":"12 Years a Slave",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.9
+  },
+  {
+    "title":"Guardians of the Galaxy",
+    "genre":"Action",
+    "year":2014.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Departed",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.9
+  },
+  {
+    "title":"Mr. Smith Goes to Washington",
+    "genre":"Comedy",
+    "year":1939.0,
+    "rating":7.9
+  },
+  {
+    "title":"American Beauty",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.9
+  },
+  {
+    "title":"The Matrix",
+    "genre":"Action",
+    "year":1999.0,
+    "rating":7.9
+  },
+  {
+    "title":"Trainspotting",
+    "genre":"Drama",
+    "year":1996.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Truman Show",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.8
+  },
+  {
+    "title":"About Time",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.8
+  },
+  {
+    "title":"Spotlight",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.8
+  },
+  {
+    "title":"Casino",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Deer Hunter",
+    "genre":"Drama",
+    "year":1978.0,
+    "rating":7.8
+  },
+  {
+    "title":"Beyond the Mat",
+    "genre":"Documentary",
+    "year":1999.0,
+    "rating":7.8
+  },
+  {
+    "title":"Cries and Whispers",
+    "genre":"Drama",
+    "year":1972.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Help",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.8
+  },
+  {
+    "title":"Amélie",
+    "genre":"Comedy",
+    "year":2001.0,
+    "rating":7.8
+  },
+  {
+    "title":"Gran Torino",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Secret in Their Eyes",
+    "genre":"Crime",
+    "year":2009.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Square",
+    "genre":"Documentary",
+    "year":2013.0,
+    "rating":7.8
+  },
+  {
+    "title":"Annie Hall",
+    "genre":"Comedy",
+    "year":1977.0,
+    "rating":7.8
+  },
+  {
+    "title":"Shutter Island",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.8
+  },
+  {
+    "title":"Live-In Maid",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.8
+  },
+  {
+    "title":"Big Hero 6",
+    "genre":"Adventure",
+    "year":2014.0,
+    "rating":7.8
+  },
+  {
+    "title":"Singin' in the Rain",
+    "genre":"Comedy",
+    "year":1952.0,
+    "rating":7.8
+  },
+  {
+    "title":"Raising Victor Vargas",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Theory of Everything",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.8
+  },
+  {
+    "title":"Amadeus",
+    "genre":"Drama",
+    "year":1984.0,
+    "rating":7.8
+  },
+  {
+    "title":"Elite Squad",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Big Lebowski",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Thing",
+    "genre":"Horror",
+    "year":1982.0,
+    "rating":7.8
+  },
+  {
+    "title":"WALL·E",
+    "genre":"Animation",
+    "year":2008.0,
+    "rating":7.8
+  },
+  {
+    "title":"Children of Heaven",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.8
+  },
+  {
+    "title":"Stand by Me",
+    "genre":"Crime",
+    "year":1986.0,
+    "rating":7.8
+  },
+  {
+    "title":"Ordet",
+    "genre":"Drama",
+    "year":1955.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Second Mother",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.8
+  },
+  {
+    "title":"Into the Wild",
+    "genre":"Adventure",
+    "year":2007.0,
+    "rating":7.8
+  },
+  {
+    "title":"Monty Python and the Holy Grail",
+    "genre":"Adventure",
+    "year":1975.0,
+    "rating":7.8
+  },
+  {
+    "title":"Django Unchained",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.8
+  },
+  {
+    "title":"Lawrence of Arabia",
+    "genre":"Adventure",
+    "year":1962.0,
+    "rating":7.8
+  },
+  {
+    "title":"Waltz with Bashir",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.8
+  },
+  {
+    "title":"The Great Escape",
+    "genre":"Adventure",
+    "year":1963.0,
+    "rating":7.8
+  },
+  {
+    "title":"Akira",
+    "genre":"Science Fiction",
+    "year":1988.0,
+    "rating":7.8
+  },
+  {
+    "title":"Downfall",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Notebook",
+    "genre":"Romance",
+    "year":2004.0,
+    "rating":7.7
+  },
+  {
+    "title":"Warrior",
+    "genre":"Action",
+    "year":2011.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Color Purple",
+    "genre":"Drama",
+    "year":1985.0,
+    "rating":7.7
+  },
+  {
+    "title":"Kill Bill: Vol. 1",
+    "genre":"Action",
+    "year":2003.0,
+    "rating":7.7
+  },
+  {
+    "title":"Dream with the Fishes",
+    "genre":"Comedy",
+    "year":1997.0,
+    "rating":7.7
+  },
+  {
+    "title":"Lilya 4-ever",
+    "genre":"Crime",
+    "year":2002.0,
+    "rating":7.7
+  },
+  {
+    "title":"Barry Lyndon",
+    "genre":"Drama",
+    "year":1975.0,
+    "rating":7.7
+  },
+  {
+    "title":"Harry Potter and the Prisoner of Azkaban",
+    "genre":"Adventure",
+    "year":2004.0,
+    "rating":7.7
+  },
+  {
+    "title":"Solaris",
+    "genre":"Drama",
+    "year":1972.0,
+    "rating":7.7
+  },
+  {
+    "title":"Catch Me If You Can",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.7
+  },
+  {
+    "title":"No Country for Old Men",
+    "genre":"Crime",
+    "year":2007.0,
+    "rating":7.7
+  },
+  {
+    "title":"V for Vendetta",
+    "genre":"Action",
+    "year":2006.0,
+    "rating":7.7
+  },
+  {
+    "title":"Young Frankenstein",
+    "genre":"Comedy",
+    "year":1974.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Sixth Sense",
+    "genre":"Mystery",
+    "year":1999.0,
+    "rating":7.7
+  },
+  {
+    "title":"Braveheart",
+    "genre":"Action",
+    "year":1995.0,
+    "rating":7.7
+  },
+  {
+    "title":"Raiders of the Lost Ark",
+    "genre":"Adventure",
+    "year":1981.0,
+    "rating":7.7
+  },
+  {
+    "title":"Up",
+    "genre":"Animation",
+    "year":2009.0,
+    "rating":7.7
+  },
+  {
+    "title":"Snatch",
+    "genre":"Thriller",
+    "year":2000.0,
+    "rating":7.7
+  },
+  {
+    "title":"Rush",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Celebration",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.7
+  },
+  {
+    "title":"Million Dollar Baby",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.7
+  },
+  {
+    "title":"Rebecca",
+    "genre":"Drama",
+    "year":1940.0,
+    "rating":7.7
+  },
+  {
+    "title":"A Separation",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.7
+  },
+  {
+    "title":"It Happened One Night",
+    "genre":"Comedy",
+    "year":1934.0,
+    "rating":7.7
+  },
+  {
+    "title":"Before Sunrise",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Bridge on the River Kwai",
+    "genre":"Drama",
+    "year":1957.0,
+    "rating":7.7
+  },
+  {
+    "title":"Donnie Darko",
+    "genre":"Fantasy",
+    "year":2001.0,
+    "rating":7.7
+  },
+  {
+    "title":"Character",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.7
+  },
+  {
+    "title":"Terminator 2: Judgment Day",
+    "genre":"Action",
+    "year":1991.0,
+    "rating":7.7
+  },
+  {
+    "title":"Toy Story",
+    "genre":"Animation",
+    "year":1995.0,
+    "rating":7.7
+  },
+  {
+    "title":"Hoop Dreams",
+    "genre":"Documentary",
+    "year":1994.0,
+    "rating":7.7
+  },
+  {
+    "title":"Bound by Honor",
+    "genre":"Action",
+    "year":1993.0,
+    "rating":7.7
+  },
+  {
+    "title":"A Beautiful Mind",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Case of the Grinning Cat",
+    "genre":"Documentary",
+    "year":2004.0,
+    "rating":7.7
+  },
+  {
+    "title":"Network",
+    "genre":"Drama",
+    "year":1976.0,
+    "rating":7.7
+  },
+  {
+    "title":"Along the Roadside",
+    "genre":"Romance",
+    "year":2013.0,
+    "rating":7.7
+  },
+  {
+    "title":"Unforgiven",
+    "genre":"Western",
+    "year":1992.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Perks of Being a Wallflower",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Heart of Me",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Man from Earth",
+    "genre":"Science Fiction",
+    "year":2007.0,
+    "rating":7.7
+  },
+  {
+    "title":"Aliens",
+    "genre":"Horror",
+    "year":1986.0,
+    "rating":7.7
+  },
+  {
+    "title":"Hachi: A Dog's Tale",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.7
+  },
+  {
+    "title":"Straight Outta Compton",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.7
+  },
+  {
+    "title":"My Name Is Khan",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.7
+  },
+  {
+    "title":"Inside Job",
+    "genre":"Documentary",
+    "year":2010.0,
+    "rating":7.7
+  },
+  {
+    "title":"L.A. Confidential",
+    "genre":"Crime",
+    "year":1997.0,
+    "rating":7.7
+  },
+  {
+    "title":"Persepolis",
+    "genre":"Animation",
+    "year":2007.0,
+    "rating":7.7
+  },
+  {
+    "title":"Gone with the Wind",
+    "genre":"Drama",
+    "year":1939.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Best Offer",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Boy in the Striped Pyjamas",
+    "genre":"War",
+    "year":2008.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Pursuit of Happyness",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.7
+  },
+  {
+    "title":"Pride & Prejudice",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.7
+  },
+  {
+    "title":"Kevin Hart: Laugh at My Pain",
+    "genre":"Comedy",
+    "year":2011.0,
+    "rating":7.7
+  },
+  {
+    "title":"The Straight Story",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.7
+  },
+  {
+    "title":"Raging Bull",
+    "genre":"Drama",
+    "year":1980.0,
+    "rating":7.7
+  },
+  {
+    "title":"Lage Raho Munna Bhai",
+    "genre":"Comedy",
+    "year":2006.0,
+    "rating":7.6
+  },
+  {
+    "title":"Judgment at Nuremberg",
+    "genre":"Drama",
+    "year":1961.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Iron Giant",
+    "genre":"Adventure",
+    "year":1999.0,
+    "rating":7.6
+  },
+  {
+    "title":"Slumdog Millionaire",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.6
+  },
+  {
+    "title":"Mulan",
+    "genre":"Animation",
+    "year":1998.0,
+    "rating":7.6
+  },
+  {
+    "title":"City of Life and Death",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Little Prince",
+    "genre":"Adventure",
+    "year":2015.0,
+    "rating":7.6
+  },
+  {
+    "title":"Hidden Away",
+    "genre":"Romance",
+    "year":2014.0,
+    "rating":7.6
+  },
+  {
+    "title":"Days of Heaven",
+    "genre":"Drama",
+    "year":1978.0,
+    "rating":7.6
+  },
+  {
+    "title":"Finding Nemo",
+    "genre":"Animation",
+    "year":2003.0,
+    "rating":7.6
+  },
+  {
+    "title":"Pandora's Box",
+    "genre":"Drama",
+    "year":1929.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Bubble",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.6
+  },
+  {
+    "title":"Me Before You",
+    "genre":"Drama",
+    "year":2016.0,
+    "rating":7.6
+  },
+  {
+    "title":"Central Station",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Conformist",
+    "genre":"Drama",
+    "year":1970.0,
+    "rating":7.6
+  },
+  {
+    "title":"High Noon",
+    "genre":"Western",
+    "year":1952.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Martian",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.6
+  },
+  {
+    "title":"Mulholland Drive",
+    "genre":"Thriller",
+    "year":2001.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Fault in Our Stars",
+    "genre":"Romance",
+    "year":2014.0,
+    "rating":7.6
+  },
+  {
+    "title":"The King's Speech",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.6
+  },
+  {
+    "title":"Moon",
+    "genre":"Science Fiction",
+    "year":2009.0,
+    "rating":7.6
+  },
+  {
+    "title":"Mystic River",
+    "genre":"Thriller",
+    "year":2003.0,
+    "rating":7.6
+  },
+  {
+    "title":"Evil Dead II",
+    "genre":"Horror",
+    "year":1987.0,
+    "rating":7.6
+  },
+  {
+    "title":"Rain Man",
+    "genre":"Drama",
+    "year":1988.0,
+    "rating":7.6
+  },
+  {
+    "title":"Jurassic Park",
+    "genre":"Adventure",
+    "year":1993.0,
+    "rating":7.6
+  },
+  {
+    "title":"Moonrise Kingdom",
+    "genre":"Comedy",
+    "year":2012.0,
+    "rating":7.6
+  },
+  {
+    "title":"Captain Phillips",
+    "genre":"Action",
+    "year":2013.0,
+    "rating":7.6
+  },
+  {
+    "title":"Do the Right Thing",
+    "genre":"Drama",
+    "year":1989.0,
+    "rating":7.6
+  },
+  {
+    "title":"Cat on a Hot Tin Roof",
+    "genre":"Drama",
+    "year":1958.0,
+    "rating":7.6
+  },
+  {
+    "title":"Big Fish",
+    "genre":"Adventure",
+    "year":2003.0,
+    "rating":7.6
+  },
+  {
+    "title":"A Fistful of Dollars",
+    "genre":"Western",
+    "year":1964.0,
+    "rating":7.6
+  },
+  {
+    "title":"Pan's Labyrinth",
+    "genre":"Fantasy",
+    "year":2006.0,
+    "rating":7.6
+  },
+  {
+    "title":"Emma",
+    "genre":"Romance",
+    "year":2009.0,
+    "rating":7.6
+  },
+  {
+    "title":"Riding Giants",
+    "genre":"Documentary",
+    "year":2004.0,
+    "rating":7.6
+  },
+  {
+    "title":"Girl, Interrupted",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.6
+  },
+  {
+    "title":"Dancer in the Dark",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.6
+  },
+  {
+    "title":"Captain America: The Winter Soldier",
+    "genre":"Action",
+    "year":2014.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Hateful Eight",
+    "genre":"Crime",
+    "year":2015.0,
+    "rating":7.6
+  },
+  {
+    "title":"In the Shadow of the Moon",
+    "genre":"Documentary",
+    "year":2007.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Wild Bunch",
+    "genre":"Adventure",
+    "year":1969.0,
+    "rating":7.6
+  },
+  {
+    "title":"Edge of Tomorrow",
+    "genre":"Action",
+    "year":2014.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Best Years of Our Lives",
+    "genre":"Drama",
+    "year":1946.0,
+    "rating":7.6
+  },
+  {
+    "title":"Ernest & Celestine",
+    "genre":"Animation",
+    "year":2012.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Princess Bride",
+    "genre":"Adventure",
+    "year":1987.0,
+    "rating":7.6
+  },
+  {
+    "title":"Toy Story 3",
+    "genre":"Animation",
+    "year":2010.0,
+    "rating":7.6
+  },
+  {
+    "title":"Dances with Wolves",
+    "genre":"Adventure",
+    "year":1990.0,
+    "rating":7.6
+  },
+  {
+    "title":"Touching the Void",
+    "genre":"Documentary",
+    "year":2003.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Hobbit: The Desolation of Smaug",
+    "genre":"Adventure",
+    "year":2013.0,
+    "rating":7.6
+  },
+  {
+    "title":"Amores perros",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.6
+  },
+  {
+    "title":"Before Sunset",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Dark Knight Rises",
+    "genre":"Action",
+    "year":2012.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Hustler",
+    "genre":"Drama",
+    "year":1961.0,
+    "rating":7.6
+  },
+  {
+    "title":"How to Train Your Dragon 2",
+    "genre":"Fantasy",
+    "year":2014.0,
+    "rating":7.6
+  },
+  {
+    "title":"Nightcrawler",
+    "genre":"Crime",
+    "year":2014.0,
+    "rating":7.6
+  },
+  {
+    "title":"A Streetcar Named Desire",
+    "genre":"Drama",
+    "year":1951.0,
+    "rating":7.6
+  },
+  {
+    "title":"The Untouchables",
+    "genre":"Crime",
+    "year":1987.0,
+    "rating":7.6
+  },
+  {
+    "title":"Ex Machina",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.6
+  },
+  {
+    "title":"My Dog Tulip",
+    "genre":"Animation",
+    "year":2009.0,
+    "rating":7.6
+  },
+  {
+    "title":"Philadelphia",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":7.6
+  },
+  {
+    "title":"Indiana Jones and the Last Crusade",
+    "genre":"Adventure",
+    "year":1989.0,
+    "rating":7.6
+  },
+  {
+    "title":"Kill Bill: Vol. 2",
+    "genre":"Action",
+    "year":2004.0,
+    "rating":7.6
+  },
+  {
+    "title":"Pierrot le Fou",
+    "genre":"Drama",
+    "year":1965.0,
+    "rating":7.6
+  },
+  {
+    "title":"Hud",
+    "genre":"Action",
+    "year":1963.0,
+    "rating":7.5
+  },
+  {
+    "title":"Jaws",
+    "genre":"Horror",
+    "year":1975.0,
+    "rating":7.5
+  },
+  {
+    "title":"X-Men: Days of Future Past",
+    "genre":"Action",
+    "year":2014.0,
+    "rating":7.5
+  },
+  {
+    "title":"Wind Walkers",
+    "genre":"Action",
+    "year":2016.0,
+    "rating":7.5
+  },
+  {
+    "title":"Magnolia",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.5
+  },
+  {
+    "title":"Freedom Writers",
+    "genre":"Crime",
+    "year":2007.0,
+    "rating":7.5
+  },
+  {
+    "title":"Night of the Living Dead",
+    "genre":"Horror",
+    "year":1968.0,
+    "rating":7.5
+  },
+  {
+    "title":"Amour",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.5
+  },
+  {
+    "title":"Michael Jordan to the Max",
+    "genre":"Documentary",
+    "year":2000.0,
+    "rating":7.5
+  },
+  {
+    "title":"Eraserhead",
+    "genre":"Drama",
+    "year":1977.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Lego Movie",
+    "genre":"Adventure",
+    "year":2014.0,
+    "rating":7.5
+  },
+  {
+    "title":"Edward Scissorhands",
+    "genre":"Fantasy",
+    "year":1990.0,
+    "rating":7.5
+  },
+  {
+    "title":"Gattaca",
+    "genre":"Thriller",
+    "year":1997.0,
+    "rating":7.5
+  },
+  {
+    "title":"Tarnation",
+    "genre":"Documentary",
+    "year":2003.0,
+    "rating":7.5
+  },
+  {
+    "title":"Rosemary's Baby",
+    "genre":"Horror",
+    "year":1968.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Wave",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.5
+  },
+  {
+    "title":"Madadayo",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":7.5
+  },
+  {
+    "title":"Monsters, Inc.",
+    "genre":"Animation",
+    "year":2001.0,
+    "rating":7.5
+  },
+  {
+    "title":"I Origins",
+    "genre":"Science Fiction",
+    "year":2014.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Act of Killing",
+    "genre":"Documentary",
+    "year":2012.0,
+    "rating":7.5
+  },
+  {
+    "title":"Lock, Stock and Two Smoking Barrels",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.5
+  },
+  {
+    "title":"Baahubali: The Beginning",
+    "genre":"Action",
+    "year":2015.0,
+    "rating":7.5
+  },
+  {
+    "title":"Cavite",
+    "genre":"Foreign",
+    "year":2005.0,
+    "rating":7.5
+  },
+  {
+    "title":"Ponyo",
+    "genre":"Animation",
+    "year":2008.0,
+    "rating":7.5
+  },
+  {
+    "title":"Platoon",
+    "genre":"Drama",
+    "year":1986.0,
+    "rating":7.5
+  },
+  {
+    "title":"Shaun of the Dead",
+    "genre":"Horror",
+    "year":2004.0,
+    "rating":7.5
+  },
+  {
+    "title":"A Walk to Remember",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.5
+  },
+  {
+    "title":"Fantastic Mr. Fox",
+    "genre":"Adventure",
+    "year":2009.0,
+    "rating":7.5
+  },
+  {
+    "title":"Titanic",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.5
+  },
+  {
+    "title":"JFK",
+    "genre":"Drama",
+    "year":1991.0,
+    "rating":7.5
+  },
+  {
+    "title":"Rushmore",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.5
+  },
+  {
+    "title":"Boyhood",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.5
+  },
+  {
+    "title":"Control",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.5
+  },
+  {
+    "title":"Little Miss Sunshine",
+    "genre":"Comedy",
+    "year":2006.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Exorcist",
+    "genre":"Drama",
+    "year":1973.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Game",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.5
+  },
+  {
+    "title":"Ratatouille",
+    "genre":"Animation",
+    "year":2007.0,
+    "rating":7.5
+  },
+  {
+    "title":"Still Alice",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.5
+  },
+  {
+    "title":"Brokeback Mountain",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.5
+  },
+  {
+    "title":"Glengarry Glen Ross",
+    "genre":"Crime",
+    "year":1992.0,
+    "rating":7.5
+  },
+  {
+    "title":"Pirates of the Caribbean: The Curse of the Black Pearl",
+    "genre":"Adventure",
+    "year":2003.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Blues Brothers",
+    "genre":"Music",
+    "year":1980.0,
+    "rating":7.5
+  },
+  {
+    "title":"Boogie Nights",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.5
+  },
+  {
+    "title":"A Man for All Seasons",
+    "genre":"Drama",
+    "year":1966.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Chorus",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.5
+  },
+  {
+    "title":"Die Hard",
+    "genre":"Action",
+    "year":1988.0,
+    "rating":7.5
+  },
+  {
+    "title":"Departure",
+    "genre":"Drama",
+    "year":2016.0,
+    "rating":7.5
+  },
+  {
+    "title":"Man on Wire",
+    "genre":"Thriller",
+    "year":2008.0,
+    "rating":7.5
+  },
+  {
+    "title":"Instructions Not Included",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Conversation",
+    "genre":"Crime",
+    "year":1974.0,
+    "rating":7.5
+  },
+  {
+    "title":"Hotel Rwanda",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.5
+  },
+  {
+    "title":"Brazil",
+    "genre":"Comedy",
+    "year":1985.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Remains of the Day",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":7.5
+  },
+  {
+    "title":"I Married a Strange Person!",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.5
+  },
+  {
+    "title":"Batman Begins",
+    "genre":"Action",
+    "year":2005.0,
+    "rating":7.5
+  },
+  {
+    "title":"True Romance",
+    "genre":"Action",
+    "year":1993.0,
+    "rating":7.5
+  },
+  {
+    "title":"Rocky",
+    "genre":"Drama",
+    "year":1976.0,
+    "rating":7.5
+  },
+  {
+    "title":"Kicks",
+    "genre":"Adventure",
+    "year":2016.0,
+    "rating":7.5
+  },
+  {
+    "title":"The Singles Ward",
+    "genre":"Comedy",
+    "year":2002.0,
+    "rating":7.5
+  },
+  {
+    "title":"What's Eating Gilbert Grape",
+    "genre":"Romance",
+    "year":1993.0,
+    "rating":7.5
+  },
+  {
+    "title":"Seven Pounds",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.5
+  },
+  {
+    "title":"A Charlie Brown Christmas",
+    "genre":"Animation",
+    "year":1965.0,
+    "rating":7.5
+  },
+  {
+    "title":"Cast Away",
+    "genre":"Adventure",
+    "year":2000.0,
+    "rating":7.5
+  },
+  {
+    "title":"Harry Potter and the Goblet of Fire",
+    "genre":"Adventure",
+    "year":2005.0,
+    "rating":7.5
+  },
+  {
+    "title":"Harry Potter and the Philosopher's Stone",
+    "genre":"Adventure",
+    "year":2001.0,
+    "rating":7.5
+  },
+  {
+    "title":"How to Train Your Dragon",
+    "genre":"Fantasy",
+    "year":2010.0,
+    "rating":7.5
+  },
+  {
+    "title":"Food, Inc.",
+    "genre":"Documentary",
+    "year":2008.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Return",
+    "genre":"Thriller",
+    "year":2003.0,
+    "rating":7.4
+  },
+  {
+    "title":"Before Midnight",
+    "genre":"Romance",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"American Sniper",
+    "genre":"War",
+    "year":2014.0,
+    "rating":7.4
+  },
+  {
+    "title":"Growing Up Smith",
+    "genre":"Comedy",
+    "year":2017.0,
+    "rating":7.4
+  },
+  {
+    "title":"Waking Ned",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.4
+  },
+  {
+    "title":"Almost Famous",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.4
+  },
+  {
+    "title":"In Cold Blood",
+    "genre":"Crime",
+    "year":1967.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Lost Weekend",
+    "genre":"Drama",
+    "year":1945.0,
+    "rating":7.4
+  },
+  {
+    "title":"Deadpool",
+    "genre":"Action",
+    "year":2016.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Nun's Story",
+    "genre":"Drama",
+    "year":1959.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Royal Tenenbaums",
+    "genre":"Comedy",
+    "year":2001.0,
+    "rating":7.4
+  },
+  {
+    "title":"Sorcerer",
+    "genre":"Action",
+    "year":1977.0,
+    "rating":7.4
+  },
+  {
+    "title":"Lion of the Desert",
+    "genre":"Action",
+    "year":1981.0,
+    "rating":7.4
+  },
+  {
+    "title":"Glory",
+    "genre":"War",
+    "year":1989.0,
+    "rating":7.4
+  },
+  {
+    "title":"Hot Fuzz",
+    "genre":"Crime",
+    "year":2007.0,
+    "rating":7.4
+  },
+  {
+    "title":"A Christmas Story",
+    "genre":"Comedy",
+    "year":1983.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Verdict",
+    "genre":"Drama",
+    "year":1982.0,
+    "rating":7.4
+  },
+  {
+    "title":"Midnight Cowboy",
+    "genre":"Drama",
+    "year":1969.0,
+    "rating":7.4
+  },
+  {
+    "title":"Fiddler on the Roof",
+    "genre":"Drama",
+    "year":1971.0,
+    "rating":7.4
+  },
+  {
+    "title":"Fury",
+    "genre":"War",
+    "year":2014.0,
+    "rating":7.4
+  },
+  {
+    "title":"Doctor Zhivago",
+    "genre":"Drama",
+    "year":1965.0,
+    "rating":7.4
+  },
+  {
+    "title":"20 Feet from Stardom",
+    "genre":"Documentary",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Man Who Shot Liberty Valance",
+    "genre":"Western",
+    "year":1962.0,
+    "rating":7.4
+  },
+  {
+    "title":"Anastasia",
+    "genre":"Animation",
+    "year":1997.0,
+    "rating":7.4
+  },
+  {
+    "title":"Moulin Rouge!",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.4
+  },
+  {
+    "title":"Spirit: Stallion of the Cimarron",
+    "genre":"Western",
+    "year":2002.0,
+    "rating":7.4
+  },
+  {
+    "title":"Nine Queens",
+    "genre":"Crime",
+    "year":2000.0,
+    "rating":7.4
+  },
+  {
+    "title":"Groundhog Day",
+    "genre":"Romance",
+    "year":1993.0,
+    "rating":7.4
+  },
+  {
+    "title":"Baby Boy",
+    "genre":"Crime",
+    "year":2001.0,
+    "rating":7.4
+  },
+  {
+    "title":"Henry V",
+    "genre":"War",
+    "year":1989.0,
+    "rating":7.4
+  },
+  {
+    "title":"Serenity",
+    "genre":"Science Fiction",
+    "year":2005.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Secret Life of Bees",
+    "genre":"Adventure",
+    "year":2008.0,
+    "rating":7.4
+  },
+  {
+    "title":"Back to the Future Part II",
+    "genre":"Adventure",
+    "year":1989.0,
+    "rating":7.4
+  },
+  {
+    "title":"Lone Survivor",
+    "genre":"Action",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"Star Trek",
+    "genre":"Science Fiction",
+    "year":2009.0,
+    "rating":7.4
+  },
+  {
+    "title":"Submarine",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.4
+  },
+  {
+    "title":"Billy Elliot",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.4
+  },
+  {
+    "title":"We Need to Talk About Kevin",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Hunger Games: Catching Fire",
+    "genre":"Adventure",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"Veer-Zaara",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.4
+  },
+  {
+    "title":"High Plains Drifter",
+    "genre":"Western",
+    "year":1973.0,
+    "rating":7.4
+  },
+  {
+    "title":"Donnie Brasco",
+    "genre":"Crime",
+    "year":1997.0,
+    "rating":7.4
+  },
+  {
+    "title":"Intolerance",
+    "genre":"Drama",
+    "year":1916.0,
+    "rating":7.4
+  },
+  {
+    "title":"Tombstone",
+    "genre":"Action",
+    "year":1993.0,
+    "rating":7.4
+  },
+  {
+    "title":"Aladdin",
+    "genre":"Animation",
+    "year":1992.0,
+    "rating":7.4
+  },
+  {
+    "title":"Silver Medalist",
+    "genre":"Action",
+    "year":2009.0,
+    "rating":7.4
+  },
+  {
+    "title":"Atonement",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Last Emperor",
+    "genre":"Drama",
+    "year":1987.0,
+    "rating":7.4
+  },
+  {
+    "title":"Dazed and Confused",
+    "genre":"Comedy",
+    "year":1993.0,
+    "rating":7.4
+  },
+  {
+    "title":"Remember the Titans",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.4
+  },
+  {
+    "title":"Star Trek Into Darkness",
+    "genre":"Action",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"Roger & Me",
+    "genre":"Documentary",
+    "year":1989.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Book Thief",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"Iron Man",
+    "genre":"Action",
+    "year":2008.0,
+    "rating":7.4
+  },
+  {
+    "title":"Indie Game: The Movie",
+    "genre":"Documentary",
+    "year":2012.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Age of Adaline",
+    "genre":"Fantasy",
+    "year":2015.0,
+    "rating":7.4
+  },
+  {
+    "title":"Tae Guk Gi: The Brotherhood of War",
+    "genre":"Action",
+    "year":2004.0,
+    "rating":7.4
+  },
+  {
+    "title":"Hedwig and the Angry Inch",
+    "genre":"Comedy",
+    "year":2001.0,
+    "rating":7.4
+  },
+  {
+    "title":"Drive",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Sound of Music",
+    "genre":"Drama",
+    "year":1965.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Last King of Scotland",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.4
+  },
+  {
+    "title":"Boyz n the Hood",
+    "genre":"Crime",
+    "year":1991.0,
+    "rating":7.4
+  },
+  {
+    "title":"Love & Basketball",
+    "genre":"Action",
+    "year":2000.0,
+    "rating":7.4
+  },
+  {
+    "title":"Weekend",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.4
+  },
+  {
+    "title":"Birdman",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.4
+  },
+  {
+    "title":"This Is England",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.4
+  },
+  {
+    "title":"Harry Potter and the Order of the Phoenix",
+    "genre":"Adventure",
+    "year":2007.0,
+    "rating":7.4
+  },
+  {
+    "title":"Office Space",
+    "genre":"Comedy",
+    "year":1999.0,
+    "rating":7.4
+  },
+  {
+    "title":"Ordinary People",
+    "genre":"Drama",
+    "year":1980.0,
+    "rating":7.4
+  },
+  {
+    "title":"Clerks",
+    "genre":"Comedy",
+    "year":1994.0,
+    "rating":7.4
+  },
+  {
+    "title":"Nebraska",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"Circumstance",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.4
+  },
+  {
+    "title":"Cure",
+    "genre":"Crime",
+    "year":1997.0,
+    "rating":7.4
+  },
+  {
+    "title":"Halloween",
+    "genre":"Horror",
+    "year":1978.0,
+    "rating":7.4
+  },
+  {
+    "title":"Sympathy for Lady Vengeance",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.4
+  },
+  {
+    "title":"The French Connection",
+    "genre":"Action",
+    "year":1971.0,
+    "rating":7.4
+  },
+  {
+    "title":"McFarland, USA",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.4
+  },
+  {
+    "title":"Good bye, Lenin!",
+    "genre":"Comedy",
+    "year":2003.0,
+    "rating":7.4
+  },
+  {
+    "title":"Happiness",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Diving Bell and the Butterfly",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.4
+  },
+  {
+    "title":"In Bruges",
+    "genre":"Comedy",
+    "year":2008.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Wizard of Oz",
+    "genre":"Adventure",
+    "year":1939.0,
+    "rating":7.4
+  },
+  {
+    "title":"Food Chains",
+    "genre":"Documentary",
+    "year":2014.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Incredibles",
+    "genre":"Action",
+    "year":2004.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Conjuring",
+    "genre":"Horror",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"Children of Men",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.4
+  },
+  {
+    "title":"Harry Potter and the Half-Blood Prince",
+    "genre":"Adventure",
+    "year":2009.0,
+    "rating":7.4
+  },
+  {
+    "title":"Tangled",
+    "genre":"Animation",
+    "year":2010.0,
+    "rating":7.4
+  },
+  {
+    "title":"Willy Wonka & the Chocolate Factory",
+    "genre":"Family",
+    "year":1971.0,
+    "rating":7.4
+  },
+  {
+    "title":"Synecdoche, New York",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.4
+  },
+  {
+    "title":"Selma",
+    "genre":"History",
+    "year":2014.0,
+    "rating":7.4
+  },
+  {
+    "title":"Lucky Number Slevin",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Others",
+    "genre":"Horror",
+    "year":2001.0,
+    "rating":7.4
+  },
+  {
+    "title":"Sling Blade",
+    "genre":"Drama",
+    "year":1996.0,
+    "rating":7.4
+  },
+  {
+    "title":"Flipped",
+    "genre":"Romance",
+    "year":2010.0,
+    "rating":7.4
+  },
+  {
+    "title":"American Gangster",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.4
+  },
+  {
+    "title":"My Fair Lady",
+    "genre":"Drama",
+    "year":1964.0,
+    "rating":7.4
+  },
+  {
+    "title":"Blow",
+    "genre":"Crime",
+    "year":2001.0,
+    "rating":7.4
+  },
+  {
+    "title":"Harry Potter and the Chamber of Secrets",
+    "genre":"Adventure",
+    "year":2002.0,
+    "rating":7.4
+  },
+  {
+    "title":"Gandhi",
+    "genre":"Drama",
+    "year":1982.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Avengers",
+    "genre":"Science Fiction",
+    "year":2012.0,
+    "rating":7.4
+  },
+  {
+    "title":"Mary Poppins",
+    "genre":"Comedy",
+    "year":1964.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Station Agent",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.4
+  },
+  {
+    "title":"Top Hat",
+    "genre":"Comedy",
+    "year":1935.0,
+    "rating":7.4
+  },
+  {
+    "title":"Midnight in Paris",
+    "genre":"Fantasy",
+    "year":2011.0,
+    "rating":7.4
+  },
+  {
+    "title":"Rudderless",
+    "genre":"Music",
+    "year":2014.0,
+    "rating":7.4
+  },
+  {
+    "title":"Philomena",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.4
+  },
+  {
+    "title":"Butch Cassidy and the Sundance Kid",
+    "genre":"History",
+    "year":1969.0,
+    "rating":7.4
+  },
+  {
+    "title":"The Insider",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.3
+  },
+  {
+    "title":"Apollo 13",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":7.3
+  },
+  {
+    "title":"Unbroken",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.3
+  },
+  {
+    "title":"Mad Max 2: The Road Warrior",
+    "genre":"Adventure",
+    "year":1981.0,
+    "rating":7.3
+  },
+  {
+    "title":"Bowling for Columbine",
+    "genre":"Documentary",
+    "year":2002.0,
+    "rating":7.3
+  },
+  {
+    "title":"Begin Again",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"Match Point",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.3
+  },
+  {
+    "title":"Walk the Line",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.3
+  },
+  {
+    "title":"The World's Fastest Indian",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.3
+  },
+  {
+    "title":"Spellbound",
+    "genre":"Drama",
+    "year":1945.0,
+    "rating":7.3
+  },
+  {
+    "title":"Beneath Hill 60",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.3
+  },
+  {
+    "title":"Now You See Me",
+    "genre":"Thriller",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"Red River",
+    "genre":"Western",
+    "year":1948.0,
+    "rating":7.3
+  },
+  {
+    "title":"Elmer Gantry",
+    "genre":"Drama",
+    "year":1960.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Hundred-Foot Journey",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.3
+  },
+  {
+    "title":"Pocketful of Miracles",
+    "genre":"Comedy",
+    "year":1961.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Secret of Kells",
+    "genre":"Animation",
+    "year":2009.0,
+    "rating":7.3
+  },
+  {
+    "title":"Oceans",
+    "genre":"Documentary",
+    "year":2009.0,
+    "rating":7.3
+  },
+  {
+    "title":"Creed",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Bridges of Madison County",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":7.3
+  },
+  {
+    "title":"Man on Fire",
+    "genre":"Action",
+    "year":2004.0,
+    "rating":7.3
+  },
+  {
+    "title":"Coraline",
+    "genre":"Animation",
+    "year":2009.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Lunchbox",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"American Psycho",
+    "genre":"Thriller",
+    "year":2000.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Bourne Identity",
+    "genre":"Action",
+    "year":2002.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Great Beauty",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"Saving Mr. Banks",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Count of Monte Cristo",
+    "genre":"Action",
+    "year":2002.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Book of Life",
+    "genre":"Romance",
+    "year":2014.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Triplets of Belleville",
+    "genre":"Adventure",
+    "year":2003.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Right Stuff",
+    "genre":"Drama",
+    "year":1983.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Evil Dead",
+    "genre":"Horror",
+    "year":1981.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Butterfly Effect",
+    "genre":"Science Fiction",
+    "year":2004.0,
+    "rating":7.3
+  },
+  {
+    "title":"10 Things I Hate About You",
+    "genre":"Comedy",
+    "year":1999.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Big Short",
+    "genre":"Comedy",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"A Single Man",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.3
+  },
+  {
+    "title":"Adaptation.",
+    "genre":"Comedy",
+    "year":2002.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Night Visitor",
+    "genre":"Crime",
+    "year":1971.0,
+    "rating":7.3
+  },
+  {
+    "title":"Peaceful Warrior",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.3
+  },
+  {
+    "title":"Deconstructing Harry",
+    "genre":"Comedy",
+    "year":1997.0,
+    "rating":7.3
+  },
+  {
+    "title":"Frida",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.3
+  },
+  {
+    "title":"Now Is Good",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Machinist",
+    "genre":"Thriller",
+    "year":2004.0,
+    "rating":7.3
+  },
+  {
+    "title":"Southpaw",
+    "genre":"Action",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"Gravity",
+    "genre":"Science Fiction",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"Black Swan",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.3
+  },
+  {
+    "title":"Tucker and Dale vs Evil",
+    "genre":"Comedy",
+    "year":2010.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Great Gatsby",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"E.T. the Extra-Terrestrial",
+    "genre":"Science Fiction",
+    "year":1982.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Life of David Gale",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.3
+  },
+  {
+    "title":"Furious 7",
+    "genre":"Action",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"Wordplay",
+    "genre":"Documentary",
+    "year":2006.0,
+    "rating":7.3
+  },
+  {
+    "title":"A Hard Day's Night",
+    "genre":"Comedy",
+    "year":1964.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Names of Love",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.3
+  },
+  {
+    "title":"Being John Malkovich",
+    "genre":"Fantasy",
+    "year":1999.0,
+    "rating":7.3
+  },
+  {
+    "title":"Dawn of the Planet of the Apes",
+    "genre":"Science Fiction",
+    "year":2014.0,
+    "rating":7.3
+  },
+  {
+    "title":"Hamlet",
+    "genre":"Drama",
+    "year":1996.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Last Samurai",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.3
+  },
+  {
+    "title":"Shine",
+    "genre":"Drama",
+    "year":1996.0,
+    "rating":7.3
+  },
+  {
+    "title":"Sleepers",
+    "genre":"Crime",
+    "year":1996.0,
+    "rating":7.3
+  },
+  {
+    "title":"District 9",
+    "genre":"Science Fiction",
+    "year":2009.0,
+    "rating":7.3
+  },
+  {
+    "title":"Once",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.3
+  },
+  {
+    "title":"A Room for Romeo Brass",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.3
+  },
+  {
+    "title":"Saint Ralph",
+    "genre":"Comedy",
+    "year":2004.0,
+    "rating":7.3
+  },
+  {
+    "title":"O Brother, Where Art Thou?",
+    "genre":"Action",
+    "year":2000.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Curious Case of Benjamin Button",
+    "genre":"Fantasy",
+    "year":2008.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Kite Runner",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.3
+  },
+  {
+    "title":"Jackie Brown",
+    "genre":"Comedy",
+    "year":1997.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Funeral",
+    "genre":"Crime",
+    "year":1996.0,
+    "rating":7.3
+  },
+  {
+    "title":"Y Tu Mamá También",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.3
+  },
+  {
+    "title":"Coach Carter",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.3
+  },
+  {
+    "title":"Training Day",
+    "genre":"Action",
+    "year":2001.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Red Violin",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.3
+  },
+  {
+    "title":"Blow Out",
+    "genre":"Drama",
+    "year":1981.0,
+    "rating":7.3
+  },
+  {
+    "title":"Predator",
+    "genre":"Science Fiction",
+    "year":1987.0,
+    "rating":7.3
+  },
+  {
+    "title":"Sisters in Law",
+    "genre":"Documentary",
+    "year":2005.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Revenant",
+    "genre":"Western",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Bourne Ultimatum",
+    "genre":"Action",
+    "year":2007.0,
+    "rating":7.3
+  },
+  {
+    "title":"Ed Wood",
+    "genre":"Comedy",
+    "year":1994.0,
+    "rating":7.3
+  },
+  {
+    "title":"Patton",
+    "genre":"Drama",
+    "year":1970.0,
+    "rating":7.3
+  },
+  {
+    "title":"Machine Gun McCain",
+    "genre":"Drama",
+    "year":1969.0,
+    "rating":7.3
+  },
+  {
+    "title":"Star Trek II: The Wrath of Khan",
+    "genre":"Action",
+    "year":1982.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Wrestler",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.3
+  },
+  {
+    "title":"Changeling",
+    "genre":"Crime",
+    "year":2008.0,
+    "rating":7.3
+  },
+  {
+    "title":"Casino Royale",
+    "genre":"Adventure",
+    "year":2006.0,
+    "rating":7.3
+  },
+  {
+    "title":"Cinderella Man",
+    "genre":"Romance",
+    "year":2005.0,
+    "rating":7.3
+  },
+  {
+    "title":"Lolita",
+    "genre":"Drama",
+    "year":1962.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Geographer Drank His Globe Away",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"Volver",
+    "genre":"Comedy",
+    "year":2006.0,
+    "rating":7.3
+  },
+  {
+    "title":"If I Stay",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.3
+  },
+  {
+    "title":"My Cousin Vinny",
+    "genre":"Comedy",
+    "year":1992.0,
+    "rating":7.3
+  },
+  {
+    "title":"When Harry Met Sally...",
+    "genre":"Comedy",
+    "year":1989.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Return of the Living Dead",
+    "genre":"Comedy",
+    "year":1985.0,
+    "rating":7.3
+  },
+  {
+    "title":"Annie Get Your Gun",
+    "genre":"Action",
+    "year":1950.0,
+    "rating":7.3
+  },
+  {
+    "title":"Memoirs of a Geisha",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.3
+  },
+  {
+    "title":"Dead Man Walking",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":7.3
+  },
+  {
+    "title":"Chiamatemi Francesco - Il Papa della gente",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"Jab Tak Hai Jaan",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.3
+  },
+  {
+    "title":"All That Jazz",
+    "genre":"Drama",
+    "year":1979.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Artist",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.3
+  },
+  {
+    "title":"Zodiac",
+    "genre":"Crime",
+    "year":2007.0,
+    "rating":7.3
+  },
+  {
+    "title":"Avengers: Age of Ultron",
+    "genre":"Action",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Raid",
+    "genre":"Action",
+    "year":2011.0,
+    "rating":7.3
+  },
+  {
+    "title":"Road to Perdition",
+    "genre":"Thriller",
+    "year":2002.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Terminator",
+    "genre":"Action",
+    "year":1984.0,
+    "rating":7.3
+  },
+  {
+    "title":"Sicko",
+    "genre":"Documentary",
+    "year":2007.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Longest Ride",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"Brigham City",
+    "genre":"Crime",
+    "year":2001.0,
+    "rating":7.3
+  },
+  {
+    "title":"Frozen",
+    "genre":"Animation",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Fifth Element",
+    "genre":"Adventure",
+    "year":1997.0,
+    "rating":7.3
+  },
+  {
+    "title":"Fruitvale Station",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.3
+  },
+  {
+    "title":"Inside Man",
+    "genre":"Crime",
+    "year":2006.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Crow",
+    "genre":"Fantasy",
+    "year":1994.0,
+    "rating":7.3
+  },
+  {
+    "title":"Woman in Gold",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.3
+  },
+  {
+    "title":"4 Months, 3 Weeks and 2 Days",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.3
+  },
+  {
+    "title":"Lost in Translation",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.3
+  },
+  {
+    "title":"Toy Story 2",
+    "genre":"Animation",
+    "year":1999.0,
+    "rating":7.3
+  },
+  {
+    "title":"Airlift",
+    "genre":"Thriller",
+    "year":2016.0,
+    "rating":7.3
+  },
+  {
+    "title":"Pitch Perfect",
+    "genre":"Comedy",
+    "year":2012.0,
+    "rating":7.3
+  },
+  {
+    "title":"Shrek",
+    "genre":"Adventure",
+    "year":2001.0,
+    "rating":7.3
+  },
+  {
+    "title":"Army of Darkness",
+    "genre":"Fantasy",
+    "year":1992.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Mudge Boy",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.3
+  },
+  {
+    "title":"Blood Diamond",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.3
+  },
+  {
+    "title":"Waiting for Guffman",
+    "genre":"Music",
+    "year":1996.0,
+    "rating":7.3
+  },
+  {
+    "title":"Apocalypto",
+    "genre":"Action",
+    "year":2006.0,
+    "rating":7.3
+  },
+  {
+    "title":"The Damned United",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Fugitive",
+    "genre":"Adventure",
+    "year":1993.0,
+    "rating":7.2
+  },
+  {
+    "title":"Hero",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.2
+  },
+  {
+    "title":"Fantasia",
+    "genre":"Animation",
+    "year":1940.0,
+    "rating":7.2
+  },
+  {
+    "title":"True Grit",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Legend of Drunken Master",
+    "genre":"Action",
+    "year":1994.0,
+    "rating":7.2
+  },
+  {
+    "title":"Morvern Callar",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.2
+  },
+  {
+    "title":"Sin City",
+    "genre":"Action",
+    "year":2005.0,
+    "rating":7.2
+  },
+  {
+    "title":"Dark City",
+    "genre":"Mystery",
+    "year":1998.0,
+    "rating":7.2
+  },
+  {
+    "title":"Frost\/Nixon",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.2
+  },
+  {
+    "title":"Grease",
+    "genre":"Romance",
+    "year":1978.0,
+    "rating":7.2
+  },
+  {
+    "title":"Boys Don't Cry",
+    "genre":"Crime",
+    "year":1999.0,
+    "rating":7.2
+  },
+  {
+    "title":"Bridge of Spies",
+    "genre":"Thriller",
+    "year":2015.0,
+    "rating":7.2
+  },
+  {
+    "title":"Ray",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"Goldfinger",
+    "genre":"Adventure",
+    "year":1964.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Blind Side",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Eddie the Eagle",
+    "genre":"Comedy",
+    "year":2016.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Sea Inside",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"Pat Garrett & Billy the Kid",
+    "genre":"Western",
+    "year":1973.0,
+    "rating":7.2
+  },
+  {
+    "title":"25th Hour",
+    "genre":"Crime",
+    "year":2002.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Judge",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.2
+  },
+  {
+    "title":"Frances Ha",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.2
+  },
+  {
+    "title":"Interview with the Vampire",
+    "genre":"Horror",
+    "year":1994.0,
+    "rating":7.2
+  },
+  {
+    "title":"As Good as It Gets",
+    "genre":"Comedy",
+    "year":1997.0,
+    "rating":7.2
+  },
+  {
+    "title":"(500) Days of Summer",
+    "genre":"Comedy",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Dope",
+    "genre":"Crime",
+    "year":2015.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Thin Red Line",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.2
+  },
+  {
+    "title":"Law Abiding Citizen",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Kiss Kiss Bang Bang",
+    "genre":"Action",
+    "year":2005.0,
+    "rating":7.2
+  },
+  {
+    "title":"Sarah's Key",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.2
+  },
+  {
+    "title":"Menace II Society",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Hurricane",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Devil's Advocate",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.2
+  },
+  {
+    "title":"Eastern Promises",
+    "genre":"Thriller",
+    "year":2007.0,
+    "rating":7.2
+  },
+  {
+    "title":"Blazing Saddles",
+    "genre":"Western",
+    "year":1974.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Train",
+    "genre":"Action",
+    "year":1964.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Hangover",
+    "genre":"Comedy",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Much Ado About Nothing",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":7.2
+  },
+  {
+    "title":"Religulous",
+    "genre":"Comedy",
+    "year":2008.0,
+    "rating":7.2
+  },
+  {
+    "title":"Rang De Basanti",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.2
+  },
+  {
+    "title":"Somewhere in Time",
+    "genre":"Science Fiction",
+    "year":1980.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Boondock Saints",
+    "genre":"Action",
+    "year":1999.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Fisher King",
+    "genre":"Comedy",
+    "year":1991.0,
+    "rating":7.2
+  },
+  {
+    "title":"My Life Without Me",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.2
+  },
+  {
+    "title":"Mean Streets",
+    "genre":"Drama",
+    "year":1973.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Hurt Locker",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.2
+  },
+  {
+    "title":"Taken",
+    "genre":"Action",
+    "year":2008.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Best of Me",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.2
+  },
+  {
+    "title":"Letters from Iwo Jima",
+    "genre":"Action",
+    "year":2006.0,
+    "rating":7.2
+  },
+  {
+    "title":"First Blood",
+    "genre":"Action",
+    "year":1982.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Muppet Christmas Carol",
+    "genre":"Comedy",
+    "year":1992.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Boat That Rocked",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Finding Neverland",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Omen",
+    "genre":"Horror",
+    "year":1976.0,
+    "rating":7.2
+  },
+  {
+    "title":"Avatar",
+    "genre":"Action",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Bloody Sunday",
+    "genre":"Action",
+    "year":2002.0,
+    "rating":7.2
+  },
+  {
+    "title":"Dogtown and Z-Boys",
+    "genre":"Documentary",
+    "year":2001.0,
+    "rating":7.2
+  },
+  {
+    "title":"Black Hawk Down",
+    "genre":"Action",
+    "year":2001.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Reader",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.2
+  },
+  {
+    "title":"From Here to Eternity",
+    "genre":"War",
+    "year":1953.0,
+    "rating":7.2
+  },
+  {
+    "title":"You Can't Take It With You",
+    "genre":"Comedy",
+    "year":1938.0,
+    "rating":7.2
+  },
+  {
+    "title":"Treasure Planet",
+    "genre":"Adventure",
+    "year":2002.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Emperor's New Groove",
+    "genre":"Adventure",
+    "year":2000.0,
+    "rating":7.2
+  },
+  {
+    "title":"Inside Llewyn Davis",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.2
+  },
+  {
+    "title":"Run Lola Run",
+    "genre":"Action",
+    "year":1998.0,
+    "rating":7.2
+  },
+  {
+    "title":"Mad Hot Ballroom",
+    "genre":"Documentary",
+    "year":2005.0,
+    "rating":7.2
+  },
+  {
+    "title":"Life of Pi",
+    "genre":"Adventure",
+    "year":2012.0,
+    "rating":7.2
+  },
+  {
+    "title":"Crouching Tiger, Hidden Dragon",
+    "genre":"Adventure",
+    "year":2000.0,
+    "rating":7.2
+  },
+  {
+    "title":"The White Ribbon",
+    "genre":"Crime",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Nowhere Boy",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Crash",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"Cradle Will Rock",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.2
+  },
+  {
+    "title":"Life as a House",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.2
+  },
+  {
+    "title":"Coal Miner's Daughter",
+    "genre":"Drama",
+    "year":1980.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Longest Day",
+    "genre":"Action",
+    "year":1962.0,
+    "rating":7.2
+  },
+  {
+    "title":"Yeh Jawaani Hai Deewani",
+    "genre":"Romance",
+    "year":2013.0,
+    "rating":7.2
+  },
+  {
+    "title":"Midnight Run",
+    "genre":"Adventure",
+    "year":1988.0,
+    "rating":7.2
+  },
+  {
+    "title":"End of Watch",
+    "genre":"Crime",
+    "year":2012.0,
+    "rating":7.2
+  },
+  {
+    "title":"Brooklyn",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Lady from Shanghai",
+    "genre":"Crime",
+    "year":1947.0,
+    "rating":7.2
+  },
+  {
+    "title":"Scott Pilgrim vs. the World",
+    "genre":"Action",
+    "year":2010.0,
+    "rating":7.2
+  },
+  {
+    "title":"Saw",
+    "genre":"Horror",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"Joyeux Noël",
+    "genre":"Romance",
+    "year":2005.0,
+    "rating":7.2
+  },
+  {
+    "title":"White Oleander",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.2
+  },
+  {
+    "title":"Barney's Version",
+    "genre":"Comedy",
+    "year":2010.0,
+    "rating":7.2
+  },
+  {
+    "title":"Dead Man's Shoes",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Fighter",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Texas Chain Saw Massacre",
+    "genre":"Horror",
+    "year":1974.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Wailing",
+    "genre":"Horror",
+    "year":2016.0,
+    "rating":7.2
+  },
+  {
+    "title":"Enter the Void",
+    "genre":"Fantasy",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"Shine a Light",
+    "genre":"Documentary",
+    "year":2008.0,
+    "rating":7.2
+  },
+  {
+    "title":"Close Encounters of the Third Kind",
+    "genre":"Science Fiction",
+    "year":1977.0,
+    "rating":7.2
+  },
+  {
+    "title":"Enemy at the Gates",
+    "genre":"War",
+    "year":2001.0,
+    "rating":7.2
+  },
+  {
+    "title":"Ocean's Eleven",
+    "genre":"Thriller",
+    "year":2001.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Bourne Supremacy",
+    "genre":"Action",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"Who Killed the Electric Car?",
+    "genre":"Documentary",
+    "year":2006.0,
+    "rating":7.2
+  },
+  {
+    "title":"Contact",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.2
+  },
+  {
+    "title":"Antarctica: A Year on Ice",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.2
+  },
+  {
+    "title":"Sense and Sensibility",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Girl with the Dragon Tattoo",
+    "genre":"Thriller",
+    "year":2011.0,
+    "rating":7.2
+  },
+  {
+    "title":"I Am Sam",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.2
+  },
+  {
+    "title":"Malcolm X",
+    "genre":"Drama",
+    "year":1992.0,
+    "rating":7.2
+  },
+  {
+    "title":"Black Book",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.2
+  },
+  {
+    "title":"Legends of the Fall",
+    "genre":"Adventure",
+    "year":1994.0,
+    "rating":7.2
+  },
+  {
+    "title":"Aroused",
+    "genre":"Documentary",
+    "year":2013.0,
+    "rating":7.2
+  },
+  {
+    "title":"Mad Max: Fury Road",
+    "genre":"Action",
+    "year":2015.0,
+    "rating":7.2
+  },
+  {
+    "title":"Sicario",
+    "genre":"Action",
+    "year":2015.0,
+    "rating":7.2
+  },
+  {
+    "title":"21 Grams",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Hunt for Red October",
+    "genre":"Action",
+    "year":1990.0,
+    "rating":7.2
+  },
+  {
+    "title":"Escape from Alcatraz",
+    "genre":"Crime",
+    "year":1979.0,
+    "rating":7.2
+  },
+  {
+    "title":"Fear and Loathing in Las Vegas",
+    "genre":"Adventure",
+    "year":1998.0,
+    "rating":7.2
+  },
+  {
+    "title":"Ghost Dog: The Way of the Samurai",
+    "genre":"Crime",
+    "year":1999.0,
+    "rating":7.2
+  },
+  {
+    "title":"A Nightmare on Elm Street",
+    "genre":"Horror",
+    "year":1984.0,
+    "rating":7.2
+  },
+  {
+    "title":"Glory Road",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Butler",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.2
+  },
+  {
+    "title":"Corpse Bride",
+    "genre":"Romance",
+    "year":2005.0,
+    "rating":7.2
+  },
+  {
+    "title":"Zombieland",
+    "genre":"Comedy",
+    "year":2009.0,
+    "rating":7.2
+  },
+  {
+    "title":"No End in Sight",
+    "genre":"Documentary",
+    "year":2007.0,
+    "rating":7.2
+  },
+  {
+    "title":"Kung Fu Hustle",
+    "genre":"Action",
+    "year":2004.0,
+    "rating":7.2
+  },
+  {
+    "title":"The Good, The Bad, The Weird",
+    "genre":"Action",
+    "year":2008.0,
+    "rating":7.1
+  },
+  {
+    "title":"Reds",
+    "genre":"Drama",
+    "year":1981.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Godfather: Part III",
+    "genre":"Crime",
+    "year":1990.0,
+    "rating":7.1
+  },
+  {
+    "title":"Mondays in the Sun",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"Headhunters",
+    "genre":"Thriller",
+    "year":2011.0,
+    "rating":7.1
+  },
+  {
+    "title":"A Few Good Men",
+    "genre":"Drama",
+    "year":1992.0,
+    "rating":7.1
+  },
+  {
+    "title":"Red Cliff",
+    "genre":"Adventure",
+    "year":2008.0,
+    "rating":7.1
+  },
+  {
+    "title":"Kick-Ass",
+    "genre":"Action",
+    "year":2010.0,
+    "rating":7.1
+  },
+  {
+    "title":"Pi",
+    "genre":"Mystery",
+    "year":1998.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Mighty",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Orphanage",
+    "genre":"Horror",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Hudsucker Proxy",
+    "genre":"Comedy",
+    "year":1994.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Virgin Suicides",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Illusionist",
+    "genre":"Fantasy",
+    "year":2006.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Social Network",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.1
+  },
+  {
+    "title":"1776",
+    "genre":"Drama",
+    "year":1972.0,
+    "rating":7.1
+  },
+  {
+    "title":"A Very Long Engagement",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Messenger",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Proposition",
+    "genre":"Action",
+    "year":2005.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Hobbit: The Battle of the Five Armies",
+    "genre":"Action",
+    "year":2014.0,
+    "rating":7.1
+  },
+  {
+    "title":"Captain America: Civil War",
+    "genre":"Adventure",
+    "year":2016.0,
+    "rating":7.1
+  },
+  {
+    "title":"Trash",
+    "genre":"Adventure",
+    "year":2014.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Painted Veil",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Last of the Mohicans",
+    "genre":"Action",
+    "year":1992.0,
+    "rating":7.1
+  },
+  {
+    "title":"Big Trouble in Little China",
+    "genre":"Action",
+    "year":1986.0,
+    "rating":7.1
+  },
+  {
+    "title":"Lilo & Stitch",
+    "genre":"Animation",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"Identity",
+    "genre":"Mystery",
+    "year":2003.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Equalizer",
+    "genre":"Thriller",
+    "year":2014.0,
+    "rating":7.1
+  },
+  {
+    "title":"South Park: Bigger, Longer & Uncut",
+    "genre":"Animation",
+    "year":1999.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Baader Meinhof Complex",
+    "genre":"Action",
+    "year":2008.0,
+    "rating":7.1
+  },
+  {
+    "title":"Thank You for Smoking",
+    "genre":"Comedy",
+    "year":2005.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Intern",
+    "genre":"Comedy",
+    "year":2015.0,
+    "rating":7.1
+  },
+  {
+    "title":"Frenzy",
+    "genre":"Crime",
+    "year":1972.0,
+    "rating":7.1
+  },
+  {
+    "title":"Dracula",
+    "genre":"Romance",
+    "year":1992.0,
+    "rating":7.1
+  },
+  {
+    "title":"Airplane!",
+    "genre":"Comedy",
+    "year":1980.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Wood",
+    "genre":"Comedy",
+    "year":1999.0,
+    "rating":7.1
+  },
+  {
+    "title":"Red Dog",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.1
+  },
+  {
+    "title":"Back to the Future Part III",
+    "genre":"Adventure",
+    "year":1990.0,
+    "rating":7.1
+  },
+  {
+    "title":"House of Flying Daggers",
+    "genre":"Adventure",
+    "year":2004.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Married Woman",
+    "genre":"Drama",
+    "year":1964.0,
+    "rating":7.1
+  },
+  {
+    "title":"They Live",
+    "genre":"Action",
+    "year":1988.0,
+    "rating":7.1
+  },
+  {
+    "title":"Wreck-It Ralph",
+    "genre":"Family",
+    "year":2012.0,
+    "rating":7.1
+  },
+  {
+    "title":"Erin Brockovich",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Way Way Back",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.1
+  },
+  {
+    "title":"K-PAX",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.1
+  },
+  {
+    "title":"This Christmas",
+    "genre":"Comedy",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"Total Recall",
+    "genre":"Action",
+    "year":1990.0,
+    "rating":7.1
+  },
+  {
+    "title":"Fast Five",
+    "genre":"Action",
+    "year":2011.0,
+    "rating":7.1
+  },
+  {
+    "title":"Reign Over Me",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"My Sister's Keeper",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.1
+  },
+  {
+    "title":"Cats Don't Dance",
+    "genre":"Animation",
+    "year":1997.0,
+    "rating":7.1
+  },
+  {
+    "title":"Silverado",
+    "genre":"Action",
+    "year":1985.0,
+    "rating":7.1
+  },
+  {
+    "title":"Race",
+    "genre":"Action",
+    "year":2016.0,
+    "rating":7.1
+  },
+  {
+    "title":"Mission: Impossible - Rogue Nation",
+    "genre":"Action",
+    "year":2015.0,
+    "rating":7.1
+  },
+  {
+    "title":"Argo",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.1
+  },
+  {
+    "title":"Nixon",
+    "genre":"History",
+    "year":1995.0,
+    "rating":7.1
+  },
+  {
+    "title":"Ghost World",
+    "genre":"Comedy",
+    "year":2001.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Visitors",
+    "genre":"Fantasy",
+    "year":1993.0,
+    "rating":7.1
+  },
+  {
+    "title":"Rise of the Guardians",
+    "genre":"Fantasy",
+    "year":2012.0,
+    "rating":7.1
+  },
+  {
+    "title":"Stranger Than Fiction",
+    "genre":"Comedy",
+    "year":2006.0,
+    "rating":7.1
+  },
+  {
+    "title":"Freeheld",
+    "genre":"Romance",
+    "year":2015.0,
+    "rating":7.1
+  },
+  {
+    "title":"Irreversible",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"Quest for Fire",
+    "genre":"Adventure",
+    "year":1981.0,
+    "rating":7.1
+  },
+  {
+    "title":"Nerve",
+    "genre":"Mystery",
+    "year":2016.0,
+    "rating":7.1
+  },
+  {
+    "title":"Milk",
+    "genre":"History",
+    "year":2008.0,
+    "rating":7.1
+  },
+  {
+    "title":"St. Vincent",
+    "genre":"Comedy",
+    "year":2014.0,
+    "rating":7.1
+  },
+  {
+    "title":"Leaving Las Vegas",
+    "genre":"Drama",
+    "year":1995.0,
+    "rating":7.1
+  },
+  {
+    "title":"Minority Report",
+    "genre":"Action",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"Across the Universe",
+    "genre":"Adventure",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Flowers of War",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.1
+  },
+  {
+    "title":"Elizabeth",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.1
+  },
+  {
+    "title":"Gangs of New York",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"August Rush",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"Whale Rider",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.1
+  },
+  {
+    "title":"Amen.",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Spanish Prisoner",
+    "genre":"Crime",
+    "year":1997.0,
+    "rating":7.1
+  },
+  {
+    "title":"X-Men: First Class",
+    "genre":"Action",
+    "year":2011.0,
+    "rating":7.1
+  },
+  {
+    "title":"Woodstock",
+    "genre":"History",
+    "year":1970.0,
+    "rating":7.1
+  },
+  {
+    "title":"Trading Places",
+    "genre":"Comedy",
+    "year":1983.0,
+    "rating":7.1
+  },
+  {
+    "title":"Lars and the Real Girl",
+    "genre":"Comedy",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"Take Shelter",
+    "genre":"Thriller",
+    "year":2011.0,
+    "rating":7.1
+  },
+  {
+    "title":"Source Code",
+    "genre":"Thriller",
+    "year":2011.0,
+    "rating":7.1
+  },
+  {
+    "title":"Soul Kitchen",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.1
+  },
+  {
+    "title":"Videodrome",
+    "genre":"Horror",
+    "year":1983.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Life Aquatic with Steve Zissou",
+    "genre":"Adventure",
+    "year":2004.0,
+    "rating":7.1
+  },
+  {
+    "title":"Good Morning, Vietnam",
+    "genre":"Comedy",
+    "year":1987.0,
+    "rating":7.1
+  },
+  {
+    "title":"Deceptive Practice: The Mysteries and Mentors of Ricky Jay",
+    "genre":"Documentary",
+    "year":2012.0,
+    "rating":7.1
+  },
+  {
+    "title":"Star Wars: Episode III - Revenge of the Sith",
+    "genre":"Science Fiction",
+    "year":2005.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Piano",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":7.1
+  },
+  {
+    "title":"Dinner Rush",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.1
+  },
+  {
+    "title":"Buffalo '66",
+    "genre":"Romance",
+    "year":1998.0,
+    "rating":7.1
+  },
+  {
+    "title":"Eye of the Dolphin",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"National Lampoon's Vacation",
+    "genre":"Comedy",
+    "year":1983.0,
+    "rating":7.1
+  },
+  {
+    "title":"[REC]",
+    "genre":"Horror",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"Despicable Me",
+    "genre":"Animation",
+    "year":2010.0,
+    "rating":7.1
+  },
+  {
+    "title":"Ice Age",
+    "genre":"Animation",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"She Wore a Yellow Ribbon",
+    "genre":"Western",
+    "year":1949.0,
+    "rating":7.1
+  },
+  {
+    "title":"Les Misérables",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.1
+  },
+  {
+    "title":"28 Days Later",
+    "genre":"Horror",
+    "year":2002.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Man from U.N.C.L.E.",
+    "genre":"Comedy",
+    "year":2015.0,
+    "rating":7.1
+  },
+  {
+    "title":"Home Alone",
+    "genre":"Comedy",
+    "year":1990.0,
+    "rating":7.1
+  },
+  {
+    "title":"Fat, Sick & Nearly Dead",
+    "genre":"Documentary",
+    "year":2010.0,
+    "rating":7.1
+  },
+  {
+    "title":"Maurice",
+    "genre":"Drama",
+    "year":1987.0,
+    "rating":7.1
+  },
+  {
+    "title":"Stardust",
+    "genre":"Adventure",
+    "year":2007.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Abyss",
+    "genre":"Adventure",
+    "year":1989.0,
+    "rating":7.1
+  },
+  {
+    "title":"Ida",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.1
+  },
+  {
+    "title":"American Splendor",
+    "genre":"Comedy",
+    "year":2003.0,
+    "rating":7.1
+  },
+  {
+    "title":"Eyes Wide Shut",
+    "genre":"Mystery",
+    "year":1999.0,
+    "rating":7.1
+  },
+  {
+    "title":"Kevin Hart: Let Me Explain",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.1
+  },
+  {
+    "title":"My Own Private Idaho",
+    "genre":"Drama",
+    "year":1991.0,
+    "rating":7.1
+  },
+  {
+    "title":"Garden State",
+    "genre":"Comedy",
+    "year":2004.0,
+    "rating":7.1
+  },
+  {
+    "title":"Point Blank",
+    "genre":"Action",
+    "year":1967.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Wind That Shakes the Barley",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.1
+  },
+  {
+    "title":"Indiana Jones and the Temple of Doom",
+    "genre":"Adventure",
+    "year":1984.0,
+    "rating":7.1
+  },
+  {
+    "title":"Perfume: The Story of a Murderer",
+    "genre":"Crime",
+    "year":2006.0,
+    "rating":7.1
+  },
+  {
+    "title":"Beetlejuice",
+    "genre":"Fantasy",
+    "year":1988.0,
+    "rating":7.1
+  },
+  {
+    "title":"Little White Lies",
+    "genre":"Comedy",
+    "year":2010.0,
+    "rating":7.1
+  },
+  {
+    "title":"It's All Gone Pete Tong",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.1
+  },
+  {
+    "title":"The Express",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.1
+  },
+  {
+    "title":"Winged Migration",
+    "genre":"Documentary",
+    "year":2001.0,
+    "rating":7.0
+  },
+  {
+    "title":"Fuel",
+    "genre":"Documentary",
+    "year":2008.0,
+    "rating":7.0
+  },
+  {
+    "title":"War Horse",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"13 Hours: The Secret Soldiers of Benghazi",
+    "genre":"Action",
+    "year":2016.0,
+    "rating":7.0
+  },
+  {
+    "title":"Crying with Laughter",
+    "genre":"Comedy",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Hours",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.0
+  },
+  {
+    "title":"Get on the Bus",
+    "genre":"Drama",
+    "year":1996.0,
+    "rating":7.0
+  },
+  {
+    "title":"Valley of the Heart's Delight",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"Pay It Forward",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"Salvador",
+    "genre":"Drama",
+    "year":1986.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Vow",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.0
+  },
+  {
+    "title":"Exiled",
+    "genre":"Action",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Dress",
+    "genre":"Comedy",
+    "year":1996.0,
+    "rating":7.0
+  },
+  {
+    "title":"Collateral",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.0
+  },
+  {
+    "title":"22 Jump Street",
+    "genre":"Crime",
+    "year":2014.0,
+    "rating":7.0
+  },
+  {
+    "title":"Under the Same Moon",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.0
+  },
+  {
+    "title":"Frailty",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Lincoln Lawyer",
+    "genre":"Crime",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Running Scared",
+    "genre":"Action",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"Patch Adams",
+    "genre":"Comedy",
+    "year":1998.0,
+    "rating":7.0
+  },
+  {
+    "title":"Rise of the Planet of the Apes",
+    "genre":"Thriller",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Notting Hill",
+    "genre":"Romance",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"Janky Promoters",
+    "genre":"Comedy",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Sunshine",
+    "genre":"Science Fiction",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"Seven Years in Tibet",
+    "genre":"Adventure",
+    "year":1997.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Hobbit: An Unexpected Journey",
+    "genre":"Adventure",
+    "year":2012.0,
+    "rating":7.0
+  },
+  {
+    "title":"Another Year",
+    "genre":"Comedy",
+    "year":2010.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Road to El Dorado",
+    "genre":"Adventure",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"Sexy Beast",
+    "genre":"Crime",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"Finding Forrester",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Muppet Movie",
+    "genre":"Adventure",
+    "year":1979.0,
+    "rating":7.0
+  },
+  {
+    "title":"Crazy, Stupid, Love.",
+    "genre":"Comedy",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Blue Jasmine",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.0
+  },
+  {
+    "title":"Moneyball",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Men of Honor",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Spanish Apartment",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.0
+  },
+  {
+    "title":"One Day",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Anomalisa",
+    "genre":"Animation",
+    "year":2015.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Black Stallion",
+    "genre":"Adventure",
+    "year":1979.0,
+    "rating":7.0
+  },
+  {
+    "title":"Bathing Beauty",
+    "genre":"Comedy",
+    "year":1944.0,
+    "rating":7.0
+  },
+  {
+    "title":"Pale Rider",
+    "genre":"Romance",
+    "year":1985.0,
+    "rating":7.0
+  },
+  {
+    "title":"Fast Times at Ridgemont High",
+    "genre":"Comedy",
+    "year":1982.0,
+    "rating":7.0
+  },
+  {
+    "title":"Watchmen",
+    "genre":"Action",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Salton Sea",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.0
+  },
+  {
+    "title":"127 Hours",
+    "genre":"Adventure",
+    "year":2010.0,
+    "rating":7.0
+  },
+  {
+    "title":"Bridge to Terabithia",
+    "genre":"Adventure",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"Beyond the Lights",
+    "genre":"Romance",
+    "year":2014.0,
+    "rating":7.0
+  },
+  {
+    "title":"Love Actually",
+    "genre":"Comedy",
+    "year":2003.0,
+    "rating":7.0
+  },
+  {
+    "title":"Quinceañera",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"Monster",
+    "genre":"Crime",
+    "year":2003.0,
+    "rating":7.0
+  },
+  {
+    "title":"Poltergeist",
+    "genre":"Horror",
+    "year":1982.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Last Temptation of Christ",
+    "genre":"Drama",
+    "year":1988.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Motel",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Impossible",
+    "genre":"Thriller",
+    "year":2012.0,
+    "rating":7.0
+  },
+  {
+    "title":"Batman",
+    "genre":"Fantasy",
+    "year":1989.0,
+    "rating":7.0
+  },
+  {
+    "title":"Out of Africa",
+    "genre":"Drama",
+    "year":1985.0,
+    "rating":7.0
+  },
+  {
+    "title":"Sherlock Holmes: A Game of Shadows",
+    "genre":"Adventure",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Limbo",
+    "genre":"Adventure",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Bélier Family",
+    "genre":"Comedy",
+    "year":2014.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Bucket List",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Looking Glass",
+    "genre":"",
+    "year":2015.0,
+    "rating":7.0
+  },
+  {
+    "title":"Star Trek: First Contact",
+    "genre":"Science Fiction",
+    "year":1996.0,
+    "rating":7.0
+  },
+  {
+    "title":"Nothing But a Man",
+    "genre":"Drama",
+    "year":1964.0,
+    "rating":7.0
+  },
+  {
+    "title":"High Fidelity",
+    "genre":"Comedy",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"Ant-Man",
+    "genre":"Science Fiction",
+    "year":2015.0,
+    "rating":7.0
+  },
+  {
+    "title":"Mrs. Doubtfire",
+    "genre":"Comedy",
+    "year":1993.0,
+    "rating":7.0
+  },
+  {
+    "title":"A Madea Christmas",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.0
+  },
+  {
+    "title":"Metropolitan",
+    "genre":"Comedy",
+    "year":1990.0,
+    "rating":7.0
+  },
+  {
+    "title":"Dangerous Liaisons",
+    "genre":"Drama",
+    "year":1988.0,
+    "rating":7.0
+  },
+  {
+    "title":"Dear Frankie",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.0
+  },
+  {
+    "title":"Superbad",
+    "genre":"Comedy",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"Waterloo",
+    "genre":"History",
+    "year":1970.0,
+    "rating":7.0
+  },
+  {
+    "title":"Goodbye Bafana",
+    "genre":"History",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"I Served the King of England",
+    "genre":"Comedy",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"Fireproof",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Aviator",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.0
+  },
+  {
+    "title":"Little Women",
+    "genre":"Drama",
+    "year":1994.0,
+    "rating":7.0
+  },
+  {
+    "title":"Selena",
+    "genre":"Drama",
+    "year":1997.0,
+    "rating":7.0
+  },
+  {
+    "title":"Flying By",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Sholem Aleichem: Laughing In The Darkness",
+    "genre":"Documentary",
+    "year":2012.0,
+    "rating":7.0
+  },
+  {
+    "title":"Twin Falls Idaho",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"Sleep Tight",
+    "genre":"Thriller",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Timecrimes",
+    "genre":"Science Fiction",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Big Parade",
+    "genre":"Drama",
+    "year":1925.0,
+    "rating":7.0
+  },
+  {
+    "title":"Quo Vadis",
+    "genre":"Drama",
+    "year":1951.0,
+    "rating":7.0
+  },
+  {
+    "title":"Frequency",
+    "genre":"Crime",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"Scott Walker: 30 Century Man",
+    "genre":"Documentary",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"A Better Life",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Heavenly Creatures",
+    "genre":"Drama",
+    "year":1994.0,
+    "rating":7.0
+  },
+  {
+    "title":"Doubt",
+    "genre":"Drama",
+    "year":2008.0,
+    "rating":7.0
+  },
+  {
+    "title":"Open Range",
+    "genre":"Western",
+    "year":2003.0,
+    "rating":7.0
+  },
+  {
+    "title":"300",
+    "genre":"Action",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"My Girl",
+    "genre":"Comedy",
+    "year":1991.0,
+    "rating":7.0
+  },
+  {
+    "title":"Friday",
+    "genre":"Comedy",
+    "year":1995.0,
+    "rating":7.0
+  },
+  {
+    "title":"Monsters University",
+    "genre":"Animation",
+    "year":2013.0,
+    "rating":7.0
+  },
+  {
+    "title":"Crimson Tide",
+    "genre":"Action",
+    "year":1995.0,
+    "rating":7.0
+  },
+  {
+    "title":"Krush Groove",
+    "genre":"Drama",
+    "year":1985.0,
+    "rating":7.0
+  },
+  {
+    "title":"Witness",
+    "genre":"Crime",
+    "year":1985.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Talented Mr. Ripley",
+    "genre":"Thriller",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"Aberdeen",
+    "genre":"Drama",
+    "year":2000.0,
+    "rating":7.0
+  },
+  {
+    "title":"WarGames",
+    "genre":"Thriller",
+    "year":1983.0,
+    "rating":7.0
+  },
+  {
+    "title":"Angela's Ashes",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"Me and You and Everyone We Know",
+    "genre":"Comedy",
+    "year":2005.0,
+    "rating":7.0
+  },
+  {
+    "title":"Smiling Fish & Goat On Fire",
+    "genre":"Comedy",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"Wild",
+    "genre":"Drama",
+    "year":2014.0,
+    "rating":7.0
+  },
+  {
+    "title":"All or Nothing",
+    "genre":"Comedy",
+    "year":2002.0,
+    "rating":7.0
+  },
+  {
+    "title":"Rocket Singh: Salesman of the Year",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Conjuring 2",
+    "genre":"Horror",
+    "year":2016.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Three Burials of Melquiades Estrada",
+    "genre":"Adventure",
+    "year":2005.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Secret Life of Walter Mitty",
+    "genre":"Adventure",
+    "year":2013.0,
+    "rating":7.0
+  },
+  {
+    "title":"The English Patient",
+    "genre":"Drama",
+    "year":1996.0,
+    "rating":7.0
+  },
+  {
+    "title":"Paddington",
+    "genre":"Family",
+    "year":2014.0,
+    "rating":7.0
+  },
+  {
+    "title":"A Time to Kill",
+    "genre":"Crime",
+    "year":1996.0,
+    "rating":7.0
+  },
+  {
+    "title":"Mud",
+    "genre":"Drama",
+    "year":2013.0,
+    "rating":7.0
+  },
+  {
+    "title":"Betty Fisher and Other Stories",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.0
+  },
+  {
+    "title":"Four Lions",
+    "genre":"Comedy",
+    "year":2010.0,
+    "rating":7.0
+  },
+  {
+    "title":"For Colored Girls",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.0
+  },
+  {
+    "title":"Red Riding: In the Year of Our Lord 1974",
+    "genre":"Thriller",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Cape Fear",
+    "genre":"Crime",
+    "year":1991.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Town",
+    "genre":"Crime",
+    "year":2010.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Phantom of the Opera",
+    "genre":"Thriller",
+    "year":2004.0,
+    "rating":7.0
+  },
+  {
+    "title":"Little Boy",
+    "genre":"Comedy",
+    "year":2015.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Land Girls",
+    "genre":"Drama",
+    "year":1998.0,
+    "rating":7.0
+  },
+  {
+    "title":"Signed, Sealed, Delivered",
+    "genre":"Comedy",
+    "year":2013.0,
+    "rating":7.0
+  },
+  {
+    "title":"Radio Days",
+    "genre":"Comedy",
+    "year":1987.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Master",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.0
+  },
+  {
+    "title":"Pirates of the Caribbean: Dead Man's Chest",
+    "genre":"Adventure",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"Fantasia 2000",
+    "genre":"Animation",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"Animal House",
+    "genre":"Comedy",
+    "year":1978.0,
+    "rating":7.0
+  },
+  {
+    "title":"Brown Sugar",
+    "genre":"Comedy",
+    "year":2002.0,
+    "rating":7.0
+  },
+  {
+    "title":"Miracle",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.0
+  },
+  {
+    "title":"50\/50",
+    "genre":"Comedy",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Chasing Mavericks",
+    "genre":"Drama",
+    "year":2012.0,
+    "rating":7.0
+  },
+  {
+    "title":"Loose Cannons",
+    "genre":"Comedy",
+    "year":2010.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Devil Wears Prada",
+    "genre":"Comedy",
+    "year":2006.0,
+    "rating":7.0
+  },
+  {
+    "title":"Arlington Road",
+    "genre":"Drama",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Last Castle",
+    "genre":"Action",
+    "year":2001.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Young Victoria",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Imagine Me & You",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Assassination of Jesse James by the Coward Robert Ford",
+    "genre":"Action",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"Concussion",
+    "genre":"Drama",
+    "year":2015.0,
+    "rating":7.0
+  },
+  {
+    "title":"Mr. Church",
+    "genre":"Drama",
+    "year":2016.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Company",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"West Side Story",
+    "genre":"Crime",
+    "year":1961.0,
+    "rating":7.0
+  },
+  {
+    "title":"Lords of Dogtown",
+    "genre":"Drama",
+    "year":2005.0,
+    "rating":7.0
+  },
+  {
+    "title":"Driving Miss Daisy",
+    "genre":"Comedy",
+    "year":1989.0,
+    "rating":7.0
+  },
+  {
+    "title":"Despicable Me 2",
+    "genre":"Animation",
+    "year":2013.0,
+    "rating":7.0
+  },
+  {
+    "title":"The NeverEnding Story",
+    "genre":"Drama",
+    "year":1984.0,
+    "rating":7.0
+  },
+  {
+    "title":"Scream",
+    "genre":"Crime",
+    "year":1996.0,
+    "rating":7.0
+  },
+  {
+    "title":"Carnage",
+    "genre":"Comedy",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Maze Runner",
+    "genre":"Action",
+    "year":2014.0,
+    "rating":7.0
+  },
+  {
+    "title":"House of Sand and Fog",
+    "genre":"Drama",
+    "year":2003.0,
+    "rating":7.0
+  },
+  {
+    "title":"Shooting Fish",
+    "genre":"Crime",
+    "year":1997.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Age of Innocence",
+    "genre":"Drama",
+    "year":1993.0,
+    "rating":7.0
+  },
+  {
+    "title":"Layer Cake",
+    "genre":"Drama",
+    "year":2004.0,
+    "rating":7.0
+  },
+  {
+    "title":"Bullets Over Broadway",
+    "genre":"Action",
+    "year":1994.0,
+    "rating":7.0
+  },
+  {
+    "title":"Lord of War",
+    "genre":"Crime",
+    "year":2005.0,
+    "rating":7.0
+  },
+  {
+    "title":"Shame",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Terminal",
+    "genre":"Comedy",
+    "year":2004.0,
+    "rating":7.0
+  },
+  {
+    "title":"Capitalism: A Love Story",
+    "genre":"Documentary",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Hugo",
+    "genre":"Adventure",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Land Before Time",
+    "genre":"Animation",
+    "year":1988.0,
+    "rating":7.0
+  },
+  {
+    "title":"Juno",
+    "genre":"Comedy",
+    "year":2007.0,
+    "rating":7.0
+  },
+  {
+    "title":"Sherlock Holmes",
+    "genre":"Action",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Maleficent",
+    "genre":"Fantasy",
+    "year":2014.0,
+    "rating":7.0
+  },
+  {
+    "title":"Nowhere in Africa",
+    "genre":"Drama",
+    "year":2001.0,
+    "rating":7.0
+  },
+  {
+    "title":"The Andromeda Strain",
+    "genre":"Science Fiction",
+    "year":1971.0,
+    "rating":7.0
+  },
+  {
+    "title":"John Q",
+    "genre":"Drama",
+    "year":2002.0,
+    "rating":7.0
+  },
+  {
+    "title":"Go",
+    "genre":"Crime",
+    "year":1999.0,
+    "rating":7.0
+  },
+  {
+    "title":"Wall Street",
+    "genre":"Crime",
+    "year":1987.0,
+    "rating":7.0
+  },
+  {
+    "title":"Elling",
+    "genre":"Comedy",
+    "year":2001.0,
+    "rating":7.0
+  },
+  {
+    "title":"Pretty Woman",
+    "genre":"Romance",
+    "year":1990.0,
+    "rating":7.0
+  },
+  {
+    "title":"Invictus",
+    "genre":"Drama",
+    "year":2009.0,
+    "rating":7.0
+  },
+  {
+    "title":"Oliver!",
+    "genre":"Drama",
+    "year":1968.0,
+    "rating":7.0
+  },
+  {
+    "title":"Melancholia",
+    "genre":"Drama",
+    "year":2011.0,
+    "rating":7.0
+  },
+  {
+    "title":"Sleeper",
+    "genre":"Comedy",
+    "year":1973.0,
+    "rating":7.0
+  },
+  {
+    "title":"It's a Mad, Mad, Mad, Mad World",
+    "genre":"Action",
+    "year":1963.0,
+    "rating":7.0
+  },
+  {
+    "title":"Biutiful",
+    "genre":"Drama",
+    "year":2010.0,
+    "rating":7.0
+  },
+  {
+    "title":"Open Secret",
+    "genre":"Crime",
+    "year":1948.0,
+    "rating":7.0
+  },
+  {
+    "title":"Cry Freedom",
+    "genre":"Drama",
+    "year":1987.0,
+    "rating":6.9
+  },
+  {
+    "title":"Evil Words",
+    "genre":"Horror",
+    "year":2003.0,
+    "rating":6.9
+  },
+  {
+    "title":"United 93",
+    "genre":"Drama",
+    "year":2006.0,
+    "rating":6.9
+  },
+  {
+    "title":"P.S. I Love You",
+    "genre":"Drama",
+    "year":2007.0,
+    "rating":6.9
+  },
+  {
+    "title":"Quest for Camelot",
+    "genre":"Fantasy",
+    "year":1998.0,
+    "rating":6.9
+  },
+  {
+    "title":"Soul Surfer",
+    "genre":"Action",
+    "year":2011.0,
+    "rating":6.9
+  },
+  {
+    "title":"Cube",
+    "genre":"Thriller",
+    "year":1997.0,
+    "rating":6.9
+  },
+  {
+    "title":"Galaxy Quest",
+    "genre":"Comedy",
+    "year":1999.0,
+    "rating":6.9
+  },
+  {
+    "title":"Stargate: The Ark of Truth",
+    "genre":"Adventure",
+    "year":2008.0,
+    "rating":6.9
+  },
+  {
+    "title":"Equilibrium",
+    "genre":"Action",
+    "year":2002.0,
+    "rating":6.9
+  },
+  {
+    "title":"The Dead Zone",
+    "genre":"Horror",
+    "year":1983.0,
+    "rating":6.9
+  },
+  {
+    "title":"Kung Fu Panda",
+    "genre":"Adventure",
+    "year":2008.0,
+    "rating":6.9
+  }
+]

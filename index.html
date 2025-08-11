@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Film Dashboard (JSON Verisiyle)</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
+    .toolbar { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:16px; }
+    input, select, button { padding:8px 10px; border:1px solid #ddd; border-radius:8px; }
+    table { width:100%; border-collapse: collapse; margin-top:10px; }
+    th, td { padding:10px; border-bottom:1px solid #eee; text-align:left; }
+    .card { border:1px solid #eee; border-radius:16px; padding:16px; margin-bottom:16px; box-shadow:0 1px 6px rgba(0,0,0,0.04); }
+    .muted { color:#666; font-size:14px; }
+  </style>
+</head>
+<body>
+  <h1>🎬 Mini Film Dashboard</h1>
+  <p class="muted">Ara, filtrele, sırala ve en yüksek puanlıları grafikte gör.</p>
+
+  <div class="card">
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="Film ara (ör. godfather)"/>
+      <select id="genre">
+        <option value="">Tüm türler</option>
+      </select>
+      <select id="sort">
+        <option value="rating-desc">Puan (yüksek → düşük)</option>
+        <option value="rating-asc">Puan (düşük → yüksek)</option>
+        <option value="year-desc">Yıl (yeni → eski)</option>
+        <option value="year-asc">Yıl (eski → yeni)</option>
+        <option value="title-asc">Başlık (A→Z)</option>
+        <option value="title-desc">Başlık (Z→A)</option>
+      </select>
+      <button id="reset">Sıfırla</button>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Başlık</th><th>Tür</th><th>Yıl</th><th>Puan</th></tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="muted" id="count"></div>
+  </div>
+
+  <div class="card">
+    <h3>⭐ En yüksek puanlı 5 film</h3>
+    <canvas id="chart" height="120"></canvas>
+  </div>
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    let films = [];
+    let chart;
+
+    async function loadData() {
+      const res = await fetch('films.json');
+      films = await res.json();
+
+      // Tür seçeneklerini doldur
+      const genreEl = document.getElementById('genre');
+      const genres = Array.from(new Set(films.map(f => f.genre).filter(Boolean))).sort();
+      genres.forEach(g => {
+        const o = document.createElement('option');
+        o.value = g; o.textContent = g;
+        genreEl.appendChild(o);
+      });
+
+      compute();
+    }
+
+    function compute() {
+      const q = document.getElementById('q').value.trim().toLowerCase();
+      const g = document.getElementById('genre').value;
+      const sortKey = document.getElementById('sort').value;
+
+      const comparators = {
+        "rating-desc": (a,b) => b.rating - a.rating,
+        "rating-asc": (a,b) => a.rating - b.rating,
+        "year-desc": (a,b) => b.year - a.year,
+        "year-asc": (a,b) => a.year - b.year,
+        "title-asc": (a,b) => a.title.localeCompare(b.title),
+        "title-desc": (a,b) => b.title.localeCompare(a.title),
+      };
+
+      const rows = films
+        .filter(f => (!g || f.genre === g) && (!q || f.title.toLowerCase().includes(q)))
+        .sort(comparators[sortKey]);
+
+      renderTable(rows);
+      renderChart(rows);
+      document.getElementById('count').textContent = rows.length + " kayıt";
+    }
+
+    function renderTable(rows) {
+      document.getElementById('tbody').innerHTML = rows.map(f => `
+        <tr>
+          <td>${f.title}</td>
+          <td>${f.genre}</td>
+          <td>${f.year}</td>
+          <td>${f.rating.toFixed(1)}</td>
+        </tr>
+      `).join('');
+    }
+
+    function renderChart(rows) {
+      const top = [...rows].sort((a,b) => b.rating - a.rating).slice(0,5);
+      const labels = top.map(f => f.title);
+      const data = top.map(f => f.rating);
+
+      if (chart) chart.destroy();
+      const ctx = document.getElementById('chart').getContext('2d');
+      chart = new Chart(ctx, {
+        type: 'bar',
+        data: { labels, datasets: [{ label: 'Puan', data }] },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: false } },
+          scales: { y: { beginAtZero: true, suggestedMax: 10 } }
+        }
+      });
+    }
+
+    document.getElementById('q').addEventListener('input', compute);
+    document.getElementById('genre').addEventListener('input', compute);
+    document.getElementById('sort').addEventListener('input', compute);
+    document.getElementById('reset').addEventListener('click', () => {
+      document.getElementById('q').value = '';
+      document.getElementById('genre').value = '';
+      document.getElementById('sort').value = 'rating-desc';
+      compute();
+    });
+
+    window.addEventListener('DOMContentLoaded', loadData);
+  </script>
+</body>
+</html>
