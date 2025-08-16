@@ -1,11 +1,11 @@
 {
   "name": "Mini Film Dashboard",
-  "short_name": "FilmDash",
-  "description": "Mini Film Dashboard - JSON verisiyle film arama, filtreleme ve sıralama",
-  "start_url": "./index.html",
+  "short_name": "FilmApp",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdf4f4",
   "theme_color": "#1976d2",
+  "description": "Mini Film Dashboard - JSON verisiyle film arama, filtreleme ve sıralama",
   "icons": [
     {
       "src": "icon-192.png",
